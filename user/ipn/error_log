@@ -1,0 +1,161 @@
+[06-Feb-2025 11:21:38 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[06-Feb-2025 12:37:14 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[07-Feb-2025 20:30:43 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[07-Feb-2025 20:57:14 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[08-Feb-2025 00:02:46 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[08-Feb-2025 00:16:45 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[08-Feb-2025 11:59:09 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[08-Feb-2025 13:20:24 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[09-Feb-2025 00:17:26 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[09-Feb-2025 00:34:32 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[09-Feb-2025 01:00:45 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[09-Feb-2025 17:21:28 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[09-Feb-2025 18:39:06 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[09-Feb-2025 18:56:03 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[09-Feb-2025 18:59:45 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[09-Feb-2025 22:27:23 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[10-Feb-2025 05:15:03 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[10-Feb-2025 10:54:46 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[10-Feb-2025 14:14:51 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[10-Feb-2025 18:20:51 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[10-Feb-2025 22:34:47 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[10-Feb-2025 22:40:27 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508
+[10-Feb-2025 22:41:21 America/Sao_Paulo] PHP Fatal error:  Uncaught MercadoPagoException in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php:508
+Stack trace:
+#0 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(557): MPRestClient::exec(Array)
+#1 /home/lagapeco/public_html/ucp/private/mp/mercadopago.php(62): MPRestClient::post(Array)
+#2 /home/lagapeco/public_html/ucp/ipn/mercadopago_276538994766389408.php(73): MP->get_access_token()
+#3 {main}
+  thrown in /home/lagapeco/public_html/ucp/private/mp/mercadopago.php on line 508

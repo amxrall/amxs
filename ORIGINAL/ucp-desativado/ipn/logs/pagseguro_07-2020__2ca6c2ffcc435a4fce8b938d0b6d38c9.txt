@@ -1,0 +1,499 @@
+30/07/2020 01:11: Protocolo inexistente! SimpleXMLElement Object
+(
+  [date] => 2020-07-16T02:18:56.000-03:00
+  [code] => 110B59BC-69D0-43CD-8CA9-1EB70083F364
+  [reference] => 40
+  [type] => 1
+  [status] => 4
+  [lastEventDate] => 2020-07-30T01:11:32.000-03:00
+  [paymentMethod] => SimpleXMLElement Object
+    (
+      [type] => 1
+      [code] => 101
+    )
+
+  [grossAmount] => 100.00
+  [discountAmount] => 0.00
+  [feeAmount] => 2.99
+  [netAmount] => 97.01
+  [extraAmount] => 0.00
+  [escrowEndDate] => 2020-07-30T01:00:00.000-03:00
+  [installmentCount] => 5
+  [itemCount] => 1
+  [items] => SimpleXMLElement Object
+    (
+      [item] => SimpleXMLElement Object
+        (
+          [id] => 1
+          [description] => Fatura 40 - 100 Ticket Donate
+          [quantity] => 100
+          [amount] => 1.00
+        )
+
+    )
+
+  [sender] => SimpleXMLElement Object
+    (
+      [name] => MARTA R G DE ARAUJO
+      [email] => gomes.raiza00@yahoo.com
+      [phone] => SimpleXMLElement Object
+        (
+          [areaCode] => 31
+          [number] => 971164294
+        )
+
+    )
+
+  [shipping] => SimpleXMLElement Object
+    (
+      [address] => SimpleXMLElement Object
+        (
+          [street] => RUA CONCEICAO TEODORO
+          [number] => 234
+          [complement] => casa
+          [district] => Nazaré
+          [city] => BELO HORIZONTE
+          [state] => MG
+          [country] => BRA
+          [postalCode] => 31990060
+        )
+
+      [type] => 3
+      [cost] => 0.00
+    )
+
+)
+ - Dump: Array
+(
+  [notificationCode] => 080E76-9D28D228D2CC-EAA4486F9E3A-9A3A21
+  [notificationType] => transaction
+)
+
+30/07/2020 01:11: Protocolo inexistente! SimpleXMLElement Object
+(
+  [date] => 2020-07-16T02:20:52.000-03:00
+  [code] => 5ED700FF-F183-4D37-AEA6-A02F3697CE2E
+  [reference] => 41
+  [type] => 1
+  [status] => 4
+  [lastEventDate] => 2020-07-30T01:11:36.000-03:00
+  [paymentMethod] => SimpleXMLElement Object
+    (
+      [type] => 1
+      [code] => 102
+    )
+
+  [grossAmount] => 100.00
+  [discountAmount] => 0.00
+  [feeAmount] => 2.99
+  [netAmount] => 97.01
+  [extraAmount] => 0.00
+  [escrowEndDate] => 2020-07-30T01:00:00.000-03:00
+  [installmentCount] => 10
+  [itemCount] => 1
+  [items] => SimpleXMLElement Object
+    (
+      [item] => SimpleXMLElement Object
+        (
+          [id] => 1
+          [description] => Fatura 41 - 100 Ticket Donate
+          [quantity] => 100
+          [amount] => 1.00
+        )
+
+    )
+
+  [sender] => SimpleXMLElement Object
+    (
+      [name] => edson jose de paulo junior
+      [email] => edson.380@hotmail.com
+      [phone] => SimpleXMLElement Object
+        (
+          [areaCode] => 31
+          [number] => 34344250
+        )
+
+    )
+
+  [shipping] => SimpleXMLElement Object
+    (
+      [address] => SimpleXMLElement Object
+        (
+          [street] => RUA CONCEICAO TEODORO
+          [number] => 234
+          [complement] => casa
+          [district] => Nazaré
+          [city] => BELO HORIZONTE
+          [state] => MG
+          [country] => BRA
+          [postalCode] => 31990060
+        )
+
+      [type] => 3
+      [cost] => 0.00
+    )
+
+)
+ - Dump: Array
+(
+  [notificationCode] => 15F9EA-6260F560F5BC-7CC47F0F84D5-72BA6B
+  [notificationType] => transaction
+)
+
+30/07/2020 01:54: Protocolo inexistente! SimpleXMLElement Object
+(
+  [date] => 2020-07-16T17:47:01.000-03:00
+  [code] => 181C1581-C1CB-4997-AD86-25C22F31B97C
+  [reference] => 52
+  [type] => 1
+  [status] => 4
+  [lastEventDate] => 2020-07-30T01:54:30.000-03:00
+  [paymentMethod] => SimpleXMLElement Object
+    (
+      [type] => 1
+      [code] => 102
+    )
+
+  [grossAmount] => 30.00
+  [discountAmount] => 0.00
+  [feeAmount] => 0.90
+  [netAmount] => 29.10
+  [extraAmount] => 0.00
+  [escrowEndDate] => 2020-07-30T01:00:00.000-03:00
+  [installmentCount] => 1
+  [itemCount] => 1
+  [items] => SimpleXMLElement Object
+    (
+      [item] => SimpleXMLElement Object
+        (
+          [id] => 1
+          [description] => Fatura 52 - 30 Ticket Donate
+          [quantity] => 30
+          [amount] => 1.00
+        )
+
+    )
+
+  [sender] => SimpleXMLElement Object
+    (
+      [name] => IGOR RODRIGUES SOUZA
+      [email] => igorrodriguessouza.13@outlook.com
+      [phone] => SimpleXMLElement Object
+        (
+          [areaCode] => 38
+          [number] => 991263143
+        )
+
+    )
+
+  [shipping] => SimpleXMLElement Object
+    (
+      [address] => SimpleXMLElement Object
+        (
+          [street] => antonio de almeida leitao
+          [number] => 369
+          [complement] => casa
+          [district] => jose bento souza
+          [city] => CONCEICAO DAS ALAGOAS
+          [state] => MG
+          [country] => BRA
+          [postalCode] => 38120000
+        )
+
+      [type] => 3
+      [cost] => 0.00
+    )
+
+)
+ - Dump: Array
+(
+  [notificationCode] => 5BD7FC-F0830B830B69-DEE4D25FA447-98326A
+  [notificationType] => transaction
+)
+
+30/07/2020 01:55: Protocolo inexistente! SimpleXMLElement Object
+(
+  [date] => 2020-07-15T15:35:11.000-03:00
+  [code] => 97B988D1-DAB5-4C57-BA16-701DF7509939
+  [reference] => 13
+  [type] => 1
+  [status] => 4
+  [lastEventDate] => 2020-07-30T01:55:09.000-03:00
+  [paymentMethod] => SimpleXMLElement Object
+    (
+      [type] => 2
+      [code] => 202
+    )
+
+  [paymentLink] => https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=616d250561ac2a8d3bc4a5387aaff2f6722a49932fce26f422baea8ba2edd340562d1606fb33f7e9
+  [grossAmount] => 30.00
+  [discountAmount] => 0.00
+  [feeAmount] => 0.90
+  [netAmount] => 29.10
+  [extraAmount] => 0.00
+  [escrowEndDate] => 2020-07-30T01:00:00.000-03:00
+  [installmentCount] => 1
+  [itemCount] => 1
+  [items] => SimpleXMLElement Object
+    (
+      [item] => SimpleXMLElement Object
+        (
+          [id] => 1
+          [description] => Fatura 13 - 30 Ticket Donate
+          [quantity] => 30
+          [amount] => 1.00
+        )
+
+    )
+
+  [sender] => SimpleXMLElement Object
+    (
+      [name] => Fabio Italo da silva santos
+      [email] => fabio_italo_96@hotmail.com
+      [phone] => SimpleXMLElement Object
+        (
+          [areaCode] => 82
+          [number] => 988079128
+        )
+
+    )
+
+  [shipping] => SimpleXMLElement Object
+    (
+      [address] => SimpleXMLElement Object
+        (
+          [street] => TRAVESSA FRANCISCO VIEIRA
+          [number] => 138 - F
+          [complement] => casa
+          [district] => Trapiche da Barra
+          [city] => MACEIO
+          [state] => AL
+          [country] => BRA
+          [postalCode] => 57010460
+        )
+
+      [type] => 3
+      [cost] => 0.00
+    )
+
+)
+ - Dump: Array
+(
+  [notificationCode] => F5BE7A-31D4A6D4A6D2-4CC4D70FAC36-AD23E6
+  [notificationType] => transaction
+)
+
+30/07/2020 03:01: Protocolo inexistente! SimpleXMLElement Object
+(
+  [date] => 2020-07-16T23:07:59.000-03:00
+  [code] => 947ABC43-14C5-4CBA-8E18-B7D5D3751197
+  [reference] => 60
+  [type] => 1
+  [status] => 4
+  [lastEventDate] => 2020-07-30T03:01:28.000-03:00
+  [paymentMethod] => SimpleXMLElement Object
+    (
+      [type] => 1
+      [code] => 102
+    )
+
+  [grossAmount] => 30.00
+  [discountAmount] => 0.00
+  [feeAmount] => 0.90
+  [netAmount] => 29.10
+  [extraAmount] => 0.00
+  [escrowEndDate] => 2020-07-30T01:00:00.000-03:00
+  [installmentCount] => 2
+  [itemCount] => 1
+  [items] => SimpleXMLElement Object
+    (
+      [item] => SimpleXMLElement Object
+        (
+          [id] => 1
+          [description] => Fatura 60 - 30 Ticket Donate
+          [quantity] => 30
+          [amount] => 1.00
+        )
+
+    )
+
+  [sender] => SimpleXMLElement Object
+    (
+      [name] => DALVA SILVEIRA DE OLIVEIRA
+      [email] => rogeriolool@hotmail.com
+      [phone] => SimpleXMLElement Object
+        (
+          [areaCode] => 35
+          [number] => 88776240
+        )
+
+    )
+
+  [shipping] => SimpleXMLElement Object
+    (
+      [address] => SimpleXMLElement Object
+        (
+          [street] => TRAVESSA BELO HORIZONTE
+          [number] => 184
+          [complement] => Casa
+          [district] => Belo Horizonte
+          [city] => PASSOS
+          [state] => MG
+          [country] => BRA
+          [postalCode] => 37900022
+        )
+
+      [type] => 3
+      [cost] => 0.00
+    )
+
+)
+ - Dump: Array
+(
+  [notificationCode] => ABAA2F-931B481B485A-6BB4679F88F7-17B375
+  [notificationType] => transaction
+)
+
+30/07/2020 07:03: Protocolo inexistente! SimpleXMLElement Object
+(
+  [date] => 2020-07-15T17:53:53.000-03:00
+  [code] => 8221A7FE-A0F4-450A-8CB7-D5575A7DBA23
+  [reference] => 20
+  [type] => 1
+  [status] => 4
+  [lastEventDate] => 2020-07-30T07:03:51.000-03:00
+  [paymentMethod] => SimpleXMLElement Object
+    (
+      [type] => 1
+      [code] => 102
+    )
+
+  [grossAmount] => 240.00
+  [discountAmount] => 0.00
+  [feeAmount] => 7.18
+  [netAmount] => 232.82
+  [extraAmount] => 0.00
+  [escrowEndDate] => 2020-07-29T01:00:00.000-03:00
+  [installmentCount] => 3
+  [itemCount] => 1
+  [items] => SimpleXMLElement Object
+    (
+      [item] => SimpleXMLElement Object
+        (
+          [id] => 1
+          [description] => Fatura 20 - 240 Ticket Donate
+          [quantity] => 240
+          [amount] => 1.00
+        )
+
+    )
+
+  [sender] => SimpleXMLElement Object
+    (
+      [name] => Juscelina Cardoso Gadonski
+      [email] => cellina2@hotmail.com
+      [phone] => SimpleXMLElement Object
+        (
+          [areaCode] => 42
+          [number] => 36248384
+        )
+
+    )
+
+  [shipping] => SimpleXMLElement Object
+    (
+      [address] => SimpleXMLElement Object
+        (
+          [street] => RUA DAS MACIEIRAS
+          [number] => 441
+          [complement] => SOBRADO
+          [district] => São Cristóvão
+          [city] => GUARAPUAVA
+          [state] => PR
+          [country] => BRA
+          [postalCode] => 85060100
+        )
+
+      [type] => 3
+      [cost] => 0.00
+    )
+
+)
+ - Dump: Array
+(
+  [notificationCode] => 95380E-EC27EE27EE34-4224BE4F90A4-CC15A2
+  [notificationType] => transaction
+)
+
+30/07/2020 09:13: Protocolo inexistente! SimpleXMLElement Object
+(
+  [date] => 2020-07-15T15:10:29.000-03:00
+  [code] => 58F3837B-175A-40A5-93AC-4B54C9AE55D1
+  [reference] => 8
+  [type] => 1
+  [status] => 7
+  [cancellationSource] => INTERNAL
+  [lastEventDate] => 2020-07-30T09:13:01.000-03:00
+  [paymentMethod] => SimpleXMLElement Object
+    (
+      [type] => 2
+      [code] => 202
+    )
+
+  [paymentLink] => https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=f7a5105ac3f4a3ce96bb877161e27d13f537f35f448ee2ab95ceca6d5e7da119d8c2fb6a2c4b3a0f
+  [grossAmount] => 30.00
+  [discountAmount] => 0.00
+  [feeAmount] => 0.90
+  [netAmount] => 29.10
+  [extraAmount] => 0.00
+  [installmentCount] => 1
+  [itemCount] => 1
+  [items] => SimpleXMLElement Object
+    (
+      [item] => SimpleXMLElement Object
+        (
+          [id] => 1
+          [description] => Fatura 8 - 30 Ticket Donate
+          [quantity] => 30
+          [amount] => 1.00
+        )
+
+    )
+
+  [sender] => SimpleXMLElement Object
+    (
+      [name] => fabio italo da silva santos
+      [email] => fabio_italo_96@hotmail.com
+      [phone] => SimpleXMLElement Object
+        (
+          [areaCode] => 82
+          [number] => 988079128
+        )
+
+    )
+
+  [shipping] => SimpleXMLElement Object
+    (
+      [address] => SimpleXMLElement Object
+        (
+          [street] => RUA MONSENHOR LUIZ BARBOSA
+          [number] => 138
+          [complement] => f
+          [district] => Prado
+          [city] => MACEIO
+          [state] => AL
+          [country] => BRA
+          [postalCode] => 57010262
+        )
+
+      [type] => 3
+      [cost] => 0.00
+    )
+
+)
+ - Dump: Array
+(
+  [notificationCode] => D720C0-EF59D659D677-8AA4994F8D09-6E363E
+  [notificationType] => transaction
+)
+

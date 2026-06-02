@@ -1,0 +1,18 @@
+03/08/2020 10:05: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 7883913871
+  [topic] => payment
+)
+
+15/08/2020 15:20: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 7619975376
+  [topic] => payment
+)
+
+15/08/2020 21:15: Protocolo inexistente! REF: 58 - Dump: Array
+(
+  [id] => 7625934642
+  [topic] => payment
+)
+

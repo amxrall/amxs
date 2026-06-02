@@ -1,0 +1,174 @@
+15/07/2020 15:12: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 25E40E-ADCCD6CCD6BA-CEE4D00F83AE-9474A6
+  [notificationType] => transaction
+)
+
+15/07/2020 15:41: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 08AF2B-D6FFEFFFEF63-CCC4FA1FAE74-F82B7B
+  [notificationType] => transaction
+)
+
+15/07/2020 15:41: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 7324E5-E0369C369C28-3FF4013FBBB5-4B82C3
+  [notificationType] => transaction
+)
+
+15/07/2020 17:56: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 83379B-16BE90BE90C2-DCC4FC7F9D86-846E00
+  [notificationType] => transaction
+)
+
+15/07/2020 17:59: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 498D61-7C61FD61FDEA-F334163FA3DE-C430EB
+  [notificationType] => transaction
+)
+
+15/07/2020 19:32: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 808C83-574551455119-7DD441AFAC6C-C9C756
+  [notificationType] => transaction
+)
+
+15/07/2020 21:39: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 71E8ED-C59A8C9A8CC1-822445AF8452-E6779B
+  [notificationType] => transaction
+)
+
+15/07/2020 22:20: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => B18D76-9E6A386A3840-A0047EBFAE98-DE1946
+  [notificationType] => transaction
+)
+
+15/07/2020 22:40: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 88B246-069758975853-9884E1CFB1E8-0F8CAA
+  [notificationType] => transaction
+)
+
+16/07/2020 02:18: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 50520B-28644C644CC0-2FF4599F9A85-188A8E
+  [notificationType] => transaction
+)
+
+16/07/2020 02:20: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 09D269-0E28002800D1-E55490AFB708-90CF16
+  [notificationType] => transaction
+)
+
+16/07/2020 02:22: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 29FE20-E1E98AE98A33-DEE4852FA12A-9459E6
+  [notificationType] => transaction
+)
+
+16/07/2020 11:04: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => FB1314-DDF81EF81EF4-F44486DFBF6F-BE8F29
+  [notificationType] => transaction
+)
+
+16/07/2020 11:32: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => A91CEF-6ADCBBDCBB2E-4774394F984A-5A80FA
+  [notificationType] => transaction
+)
+
+16/07/2020 15:27: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 416167-7463F863F8F4-2004179FA8BF-82B2AD
+  [notificationType] => transaction
+)
+
+16/07/2020 17:48: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => FB692C-E9C26BC26B5E-7334326F8BCD-2F92C3
+  [notificationType] => transaction
+)
+
+16/07/2020 23:09: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => E43FD2-9CA48AA48AFA-555454BF9248-558FFC
+  [notificationType] => transaction
+)
+
+17/07/2020 03:45: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 69B02D-DC2A9C2A9CEC-6CC4077FA8D1-130C81
+  [notificationType] => transaction
+)
+
+17/07/2020 12:30: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => CE19D1-DD9356935648-CDD40E2FA2EB-8EB323
+  [notificationType] => transaction
+)
+
+17/07/2020 12:58: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => A2D14F-0B3DCF3DCF32-855458AF8AB7-AF8831
+  [notificationType] => transaction
+)
+
+17/07/2020 14:29: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 855367-1B77B877B8EC-8444EA6F9B7F-18DD94
+  [notificationType] => transaction
+)
+
+17/07/2020 14:34: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 269367-A5CC1FCC1FFB-9AA477BF959C-C3101A
+  [notificationType] => transaction
+)
+
+17/07/2020 16:45: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 260EA8-CA0DCC0DCCA3-0EE407DFA4B5-DEAD5A
+  [notificationType] => transaction
+)
+
+18/07/2020 00:15: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 1599EA-6394759475A9-AAA4BF5FAAAB-45691E
+  [notificationType] => transaction
+)
+
+18/07/2020 00:37: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 2E634F-96D68CD68C03-8004B7FFA0C6-C56676
+  [notificationType] => transaction
+)
+
+18/07/2020 00:38: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 98AC7B-953D153D151B-EFF4D4EF8A3C-189CAB
+  [notificationType] => transaction
+)
+
+18/07/2020 01:39: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 836048-93C398C3982A-7CC43EEFAE00-F51AB1
+  [notificationType] => transaction
+)
+
+18/07/2020 01:48: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 2F2A59-D81584158443-05549ACFBE8B-BCE5E4
+  [notificationType] => transaction
+)
+
+18/07/2020 15:31: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => B749A0-4002D102D19E-CBB408DF8EF4-F1D973
+  [notificationType] => transaction
+)
+

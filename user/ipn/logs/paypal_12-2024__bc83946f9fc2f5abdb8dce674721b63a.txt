@@ -1,0 +1,46 @@
+14/12/2024 14:23: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 2EHMA7NJVMCLC
+  [address_street] => Rua Reginaldo M de Barros
+Itinga
+  [payment_date] => 09:23:27 Dec 14, 2024 PST
+  [payment_status] => Completed
+  [charset] => UTF-8
+  [address_zip] => 42700000
+  [first_name] => Rafael
+  [mc_fee] => 3.00
+  [address_country_code] => BR
+  [address_name] => Rafael Miranda da Silva
+  [notify_version] => 3.9
+  [custom] => 10003
+  [payer_status] => unverified
+  [business] => williamsfontinelle@gmail.com
+  [address_country] => Brazil
+  [address_city] => Lauro de Freitas
+  [quantity] => 50
+  [verify_sign] => A6CVCk5D3FJdwUv8rorzeJszAIn2A6keT-ewqN3DHq7lrSlzPzzHnE98
+  [payer_email] => rafaelmirandaempreendedor@gmail.com
+  [txn_id] => 5YV11475D0075924J
+  [payment_type] => instant
+  [last_name] => Miranda da Silva
+  [address_state] => Bahia
+  [receiver_email] => williamsfontinelle@gmail.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => YK5BBG22KFM46
+  [txn_type] => web_accept
+  [item_name] => Fatura 10003 - 50 Ticket Donater
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => f990698348a88
+)
+

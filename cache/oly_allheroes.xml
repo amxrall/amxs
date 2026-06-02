@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ranking>
+<configs>
+<atualstudio>Cache script by Atualstudio.com</atualstudio>
+<updated>1758787525</updated>
+<delay>1</delay>
+</configs>
+<line>
+<pos>1</pos>
+<name>MaDa</name>
+<count>1</count>
+<class>Hell Knight</class>
+<clan>-</clan>
+<ally>-</ally>
+</line>
+<line>
+<pos>2</pos>
+<name>BugadO</name>
+<count>1</count>
+<class>Sagittarius</class>
+<clan>TROPADOSANOES</clan>
+<ally>TROPADOPATATI</ally>
+</line>
+<line>
+<pos>3</pos>
+<name>Clinks</name>
+<count>1</count>
+<class>Adventurer</class>
+<clan>CARTOONNETWORK</clan>
+<ally>CN</ally>
+</line>
+<line>
+<pos>4</pos>
+<name>XeNoVeVa</name>
+<count>1</count>
+<class>Titan</class>
+<clan>-</clan>
+<ally>-</ally>
+</line>
+<line>
+<pos>5</pos>
+<name>Jamaica</name>
+<count>1</count>
+<class>Dominator</class>
+<clan>KonohaSquaD</clan>
+<ally>KNH</ally>
+</line>
+<line>
+<pos>6</pos>
+<name>PATATA</name>
+<count>1</count>
+<class>Fortune Seeker</class>
+<clan>TROPADOSANOES</clan>
+<ally>TROPADOPATATI</ally>
+</line>
+</ranking>

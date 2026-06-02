@@ -1,0 +1,290 @@
+31/01/2025 21:55: Exception: Payment not found - 2000: Payment not found
+Params = Array
+(
+    [access_token] => APP_USR-8583418366013110-013120-acea150dbb6fdc98a6a72481b9741cb4-2033218263
+    [headers] => Array
+        (
+            [0] => Authorization: Bearer APP_USR-8583418366013110-013120-d03f27d0b01cc0e077966230ed4db180-2033218263
+        )
+
+)
+
+GETs = Array
+(
+    [topic] => payment
+    [id] => 123456
+)
+
+POSTs = Array
+(
+)
+
+31/01/2025 21:57: Transação recebida e processada com sucesso! #2 Array
+(
+  [status] => 200
+  [response] => Array
+    (
+      [accounts_info] => 
+      [acquirer_reconciliation] => Array
+        (
+        )
+
+      [additional_info] => Array
+        (
+          [ip_address] => 177.125.249.189
+          [items] => Array
+            (
+              [0] => Array
+                (
+                  [quantity] => 1
+                  [title] => Fatura 10001 - 1 Ticket Donater
+                  [unit_price] => 1
+                )
+
+            )
+
+          [tracking_id] => platform:v1-whitelabel,so:ALL,type:N/A,security:none
+        )
+
+      [authorization_code] => 
+      [binary_mode] => 
+      [brand_id] => 
+      [build_version] => 3.89.0-rc-12
+      [call_for_authorize_id] => 
+      [callback_url] => 
+      [captured] => 1
+      [card] => Array
+        (
+        )
+
+      [charges_details] => Array
+        (
+          [0] => Array
+            (
+              [accounts] => Array
+                (
+                  [from] => collector
+                  [to] => mp
+                )
+
+              [amounts] => Array
+                (
+                  [original] => 0.01
+                  [refunded] => 0
+                )
+
+              [client_id] => 0
+              [date_created] => 2025-01-31T20:57:48.000-04:00
+              [id] => 100596986235-001
+              [last_updated] => 2025-01-31T20:57:48.000-04:00
+              [metadata] => Array
+                (
+                  [source] => rule-engine
+                )
+
+              [name] => mercadopago_fee
+              [refund_charges] => Array
+                (
+                )
+
+              [reserve_id] => 
+              [type] => fee
+            )
+
+        )
+
+      [charges_execution_info] => Array
+        (
+          [internal_execution] => Array
+            (
+              [date] => 2025-01-31T20:57:48.955-04:00
+              [execution_id] => 01JJZG73K48TV3VZKFVT1NJS4T
+            )
+
+        )
+
+      [collector_id] => 2033218263
+      [corporation_id] => 
+      [counter_currency] => 
+      [coupon_amount] => 0
+      [currency_id] => BRL
+      [date_approved] => 
+      [date_created] => 2025-01-31T20:57:48.000-04:00
+      [date_last_updated] => 2025-01-31T20:57:48.000-04:00
+      [date_of_expiration] => 2025-02-01T20:57:48.000-04:00
+      [deduction_schema] => 
+      [description] => Fatura 10001 - 1 Ticket Donater
+      [differential_pricing_id] => 
+      [external_reference] => 10001
+      [fee_details] => Array
+        (
+        )
+
+      [financing_group] => 
+      [id] => 100596986235
+      [installments] => 1
+      [integrator_id] => 
+      [issuer_id] => 12501
+      [live_mode] => 1
+      [marketplace_owner] => 
+      [merchant_account_id] => 
+      [merchant_number] => 
+      [metadata] => Array
+        (
+        )
+
+      [money_release_date] => 
+      [money_release_schema] => 
+      [money_release_status] => released
+      [notification_url] => 
+      [operation_type] => regular_payment
+      [order] => Array
+        (
+          [id] => 27901908974
+          [type] => mercadopago
+        )
+
+      [payer] => Array
+        (
+          [email] => 
+          [entity_type] => 
+          [first_name] => 
+          [id] => 2241829871
+          [identification] => Array
+            (
+              [number] => 
+              [type] => 
+            )
+
+          [last_name] => 
+          [operator_id] => 
+          [phone] => Array
+            (
+              [number] => 
+              [extension] => 
+              [area_code] => 
+            )
+
+          [type] => 
+        )
+
+      [payment_method] => Array
+        (
+          [id] => pix
+          [issuer_id] => 12501
+          [type] => bank_transfer
+        )
+
+      [payment_method_id] => pix
+      [payment_type_id] => bank_transfer
+      [platform_id] => 
+      [point_of_interaction] => Array
+        (
+          [application_data] => Array
+            (
+              [name] => checkout-off
+              [version] => v2
+            )
+
+          [business_info] => Array
+            (
+              [branch] => Merchant Services
+              [sub_unit] => checkout_pro
+              [unit] => online_payments
+            )
+
+          [transaction_data] => Array
+            (
+              [bank_info] => Array
+                (
+                  [collector] => Array
+                    (
+                      [account_holder_name] => Bruno Tavares Feliciano
+                      [account_id] => 
+                      [long_name] => 
+                      [transfer_account_id] => 
+                    )
+
+                  [is_same_bank_account_owner] => 
+                  [origin_bank_id] => 
+                  [origin_wallet_id] => 
+                  [payer] => Array
+                    (
+                      [account_id] => 
+                      [branch] => 
+                      [external_account_id] => 
+                      [id] => 
+                      [identification] => Array
+                        (
+                        )
+
+                      [long_name] => 
+                    )
+
+                )
+
+              [bank_transfer_id] => 
+              [e2e_id] => 
+              [financial_institution] => 
+              [infringement_notification] => Array
+                (
+                  [status] => 
+                  [type] => 
+                )
+
+              [qr_code] => 00020126330014br.gov.bcb.pix01110903663716352040000530398654041.005802BR5916TB202410220826156009Sao Paulo62250521mpqrinter10059698623563047C65
+              [qr_code_base64] => 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
+              [ticket_url] => https://www.mercadopago.com.br/payments/100596986235/ticket?caller_id=2241829871&hash=f37706a1-1c80-431b-a562-7c842f84cca6
+              [transaction_id] => 
+            )
+
+          [type] => CHECKOUT
+        )
+
+      [pos_id] => 
+      [processing_mode] => aggregator
+      [refunds] => Array
+        (
+        )
+
+      [release_info] => 
+      [shipping_amount] => 0
+      [sponsor_id] => 
+      [statement_descriptor] => 
+      [status] => pending
+      [status_detail] => pending_waiting_transfer
+      [store_id] => 
+      [tags] => 
+      [taxes_amount] => 0
+      [transaction_amount] => 1
+      [transaction_amount_refunded] => 0
+      [transaction_details] => Array
+        (
+          [acquirer_reference] => 
+          [bank_transfer_id] => 
+          [external_resource_url] => 
+          [financial_institution] => 
+          [installment_amount] => 0
+          [net_received_amount] => 0
+          [overpaid_amount] => 0
+          [payable_deferral_period] => 
+          [payment_method_reference_id] => 
+          [total_paid_amount] => 1
+          [transaction_id] => 
+        )
+
+    )
+
+)
+ - Dump: Array
+(
+  [id] => 100596986235
+  [topic] => payment
+)
+
+31/01/2025 21:58: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [id] => 100596986235
+  [topic] => payment
+)
+

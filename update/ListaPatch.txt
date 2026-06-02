@@ -1,0 +1,6 @@
+system/armorgrp.dat c9242cfd 207920
+system/etcitemgrp.dat fda51bca 84272
+system/itemname-e.dat 17678c69 271152
+system/npcgrp.dat 22305f7e 241072
+system/npcname-e.dat cb4afed7 52528
+system/servername-e.dat ec711883 1072

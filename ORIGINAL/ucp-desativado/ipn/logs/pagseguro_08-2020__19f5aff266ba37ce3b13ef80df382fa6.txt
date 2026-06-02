@@ -1,0 +1,353 @@
+01/08/2020 04:28: Protocolo inexistente! SimpleXMLElement Object
+(
+  [date] => 2020-07-18T01:46:45.000-03:00
+  [code] => 0F0BDABE-A1F4-4720-8CBF-D0205DCD2086
+  [reference] => 90
+  [type] => 1
+  [status] => 4
+  [lastEventDate] => 2020-08-01T04:28:30.000-03:00
+  [paymentMethod] => SimpleXMLElement Object
+    (
+      [type] => 1
+      [code] => 102
+    )
+
+  [grossAmount] => 20.00
+  [discountAmount] => 0.00
+  [feeAmount] => 0.60
+  [netAmount] => 19.40
+  [extraAmount] => 0.00
+  [escrowEndDate] => 2020-08-01T01:00:00.000-03:00
+  [installmentCount] => 1
+  [itemCount] => 1
+  [items] => SimpleXMLElement Object
+    (
+      [item] => SimpleXMLElement Object
+        (
+          [id] => 1
+          [description] => Fatura 90 - 20 Ticket Donate
+          [quantity] => 20
+          [amount] => 1.00
+        )
+
+    )
+
+  [sender] => SimpleXMLElement Object
+    (
+      [name] => edson jose de paulo junior
+      [email] => edson.380@hotmail.com
+      [phone] => SimpleXMLElement Object
+        (
+          [areaCode] => 31
+          [number] => 34344250
+        )
+
+    )
+
+  [shipping] => SimpleXMLElement Object
+    (
+      [address] => SimpleXMLElement Object
+        (
+          [street] => RUA CONCEICAO TEODORO
+          [number] => 234
+          [complement] => casa
+          [district] => Nazaré
+          [city] => BELO HORIZONTE
+          [state] => MG
+          [country] => BRA
+          [postalCode] => 31990060
+        )
+
+      [type] => 3
+      [cost] => 0.00
+    )
+
+)
+ - Dump: Array
+(
+  [notificationCode] => 13E6D3-13E7ACE7ACAE-D444F16F8936-7D8962
+  [notificationType] => transaction
+)
+
+01/08/2020 04:28: Protocolo inexistente! SimpleXMLElement Object
+(
+  [date] => 2020-07-18T00:37:37.000-03:00
+  [code] => 0012851B-2DE5-4EC4-A40A-8B7C53857A3C
+  [reference] => 87
+  [type] => 1
+  [status] => 4
+  [lastEventDate] => 2020-08-01T04:28:46.000-03:00
+  [paymentMethod] => SimpleXMLElement Object
+    (
+      [type] => 1
+      [code] => 101
+    )
+
+  [grossAmount] => 60.00
+  [discountAmount] => 0.00
+  [feeAmount] => 1.79
+  [netAmount] => 58.21
+  [extraAmount] => 0.00
+  [escrowEndDate] => 2020-08-01T01:00:00.000-03:00
+  [installmentCount] => 1
+  [itemCount] => 1
+  [items] => SimpleXMLElement Object
+    (
+      [item] => SimpleXMLElement Object
+        (
+          [id] => 1
+          [description] => Fatura 87 - 60 Ticket Donate
+          [quantity] => 60
+          [amount] => 1.00
+        )
+
+    )
+
+  [sender] => SimpleXMLElement Object
+    (
+      [name] => Rodrigo Jovita Farias de Oliveira
+      [email] => rodrigojovitafariasdeoliveira@gmail.com
+    )
+
+  [shipping] => SimpleXMLElement Object
+    (
+      [address] => SimpleXMLElement Object
+        (
+          [street] => RUA LIMEIRA
+          [number] => 168
+          [complement] => SimpleXMLElement Object
+            (
+            )
+
+          [district] => Califórnia
+          [city] => ITABUNA
+          [state] => BA
+          [country] => BRA
+          [postalCode] => 45604205
+        )
+
+      [type] => 3
+      [cost] => 0.00
+    )
+
+)
+ - Dump: Array
+(
+  [notificationCode] => 4FC9A6-2949AD49AD30-8774BACFA641-082238
+  [notificationType] => transaction
+)
+
+01/08/2020 04:30: Protocolo inexistente! SimpleXMLElement Object
+(
+  [date] => 2020-07-18T00:10:32.000-03:00
+  [code] => D6CD6145-F8E4-40B7-9654-A9205D2E38B5
+  [reference] => 85
+  [type] => 1
+  [status] => 4
+  [lastEventDate] => 2020-08-01T04:30:28.000-03:00
+  [paymentMethod] => SimpleXMLElement Object
+    (
+      [type] => 1
+      [code] => 105
+    )
+
+  [grossAmount] => 60.00
+  [discountAmount] => 0.00
+  [feeAmount] => 1.79
+  [netAmount] => 58.21
+  [extraAmount] => 0.00
+  [escrowEndDate] => 2020-08-01T01:00:00.000-03:00
+  [installmentCount] => 1
+  [itemCount] => 1
+  [items] => SimpleXMLElement Object
+    (
+      [item] => SimpleXMLElement Object
+        (
+          [id] => 1
+          [description] => Fatura 85 - 60 Ticket Donate
+          [quantity] => 60
+          [amount] => 1.00
+        )
+
+    )
+
+  [sender] => SimpleXMLElement Object
+    (
+      [name] => Rodrigo Jovita Farias de Oliveira
+      [email] => rodrigojovitafariasdeoliveira@gmail.com
+    )
+
+  [shipping] => SimpleXMLElement Object
+    (
+      [address] => SimpleXMLElement Object
+        (
+          [street] => RUA LIMEIRA
+          [number] => 168
+          [complement] => SimpleXMLElement Object
+            (
+            )
+
+          [district] => Califórnia
+          [city] => ITABUNA
+          [state] => BA
+          [country] => BRA
+          [postalCode] => 45604205
+        )
+
+      [type] => 3
+      [cost] => 0.00
+    )
+
+)
+ - Dump: Array
+(
+  [notificationCode] => DFF183-1CE786E7865A-CBB405AF927E-B5A521
+  [notificationType] => transaction
+)
+
+01/08/2020 07:46: Protocolo inexistente! SimpleXMLElement Object
+(
+  [date] => 2020-07-17T12:57:22.000-03:00
+  [code] => 6869333F-F93B-4626-8AF9-7BD3EEE1F563
+  [reference] => 71
+  [type] => 1
+  [status] => 7
+  [cancellationSource] => INTERNAL
+  [lastEventDate] => 2020-08-01T07:46:43.000-03:00
+  [paymentMethod] => SimpleXMLElement Object
+    (
+      [type] => 2
+      [code] => 202
+    )
+
+  [paymentLink] => https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=6aa91b274945f6615fb8f0b50267e1e3e2e6d1b34eaa0f806a4296bf121226ee624a8cb54ed850b4
+  [grossAmount] => 20.00
+  [discountAmount] => 0.00
+  [feeAmount] => 0.60
+  [netAmount] => 19.40
+  [extraAmount] => 0.00
+  [installmentCount] => 1
+  [itemCount] => 1
+  [items] => SimpleXMLElement Object
+    (
+      [item] => SimpleXMLElement Object
+        (
+          [id] => 1
+          [description] => Fatura 71 - 20 Ticket Donate
+          [quantity] => 20
+          [amount] => 1.00
+        )
+
+    )
+
+  [sender] => SimpleXMLElement Object
+    (
+      [name] => Lucas Alves
+      [email] => lucsantos@outlook.com.br
+      [phone] => SimpleXMLElement Object
+        (
+          [areaCode] => 81
+          [number] => 983305198
+        )
+
+    )
+
+  [shipping] => SimpleXMLElement Object
+    (
+      [address] => SimpleXMLElement Object
+        (
+          [street] => RUA LUZIA ALVES
+          [number] => 114
+          [complement] => SimpleXMLElement Object
+            (
+            )
+
+          [district] => Timbí
+          [city] => CAMARAGIBE
+          [state] => PE
+          [country] => BRA
+          [postalCode] => 54765460
+        )
+
+      [type] => 3
+      [cost] => 0.00
+    )
+
+)
+ - Dump: Array
+(
+  [notificationCode] => 8B489E-028EF48EF4ED-3EE4828FAA96-B74664
+  [notificationType] => transaction
+)
+
+04/08/2020 14:02: Protocolo inexistente! SimpleXMLElement Object
+(
+  [date] => 2020-07-15T17:53:53.000-03:00
+  [code] => 8221A7FE-A0F4-450A-8CB7-D5575A7DBA23
+  [reference] => 20
+  [type] => 1
+  [status] => 4
+  [lastEventDate] => 2020-08-04T14:02:20.000-03:00
+  [paymentMethod] => SimpleXMLElement Object
+    (
+      [type] => 1
+      [code] => 102
+    )
+
+  [grossAmount] => 240.00
+  [discountAmount] => 0.00
+  [feeAmount] => 7.18
+  [netAmount] => 232.82
+  [extraAmount] => 0.00
+  [escrowEndDate] => 2020-07-29T01:00:00.000-03:00
+  [installmentCount] => 3
+  [itemCount] => 1
+  [items] => SimpleXMLElement Object
+    (
+      [item] => SimpleXMLElement Object
+        (
+          [id] => 1
+          [description] => Fatura 20 - 240 Ticket Donate
+          [quantity] => 240
+          [amount] => 1.00
+        )
+
+    )
+
+  [sender] => SimpleXMLElement Object
+    (
+      [name] => Juscelina Cardoso Gadonski
+      [email] => cellina2@hotmail.com
+      [phone] => SimpleXMLElement Object
+        (
+          [areaCode] => 42
+          [number] => 36248384
+        )
+
+    )
+
+  [shipping] => SimpleXMLElement Object
+    (
+      [address] => SimpleXMLElement Object
+        (
+          [street] => RUA DAS MACIEIRAS
+          [number] => 441
+          [complement] => SOBRADO
+          [district] => São Cristóvão
+          [city] => GUARAPUAVA
+          [state] => PR
+          [country] => BRA
+          [postalCode] => 85060100
+        )
+
+      [type] => 3
+      [cost] => 0.00
+    )
+
+)
+ - Dump: Array
+(
+  [notificationCode] => 851F88-AF8098809898-02246A9FAD57-280F33
+  [notificationType] => transaction
+)
+

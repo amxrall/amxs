@@ -1,0 +1,895 @@
+01/03/2025 20:06: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 103872934504
+  [topic] => payment
+)
+
+02/03/2025 10:27: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 103911875996
+  [topic] => payment
+)
+
+04/03/2025 01:06: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 103657262867
+  [topic] => payment
+)
+
+04/03/2025 01:25: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 103657723953
+  [topic] => payment
+)
+
+04/03/2025 21:51: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 103730201743
+  [topic] => payment
+)
+
+05/03/2025 11:44: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 103776291009
+  [topic] => payment
+)
+
+05/03/2025 11:54: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 104181111370
+  [topic] => payment
+)
+
+05/03/2025 12:19: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 103779991165
+  [topic] => payment
+)
+
+05/03/2025 12:50: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 104187033720
+  [topic] => payment
+)
+
+05/03/2025 15:24: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 104200999062
+  [topic] => payment
+)
+
+05/03/2025 19:46: Transação recebida e processada com sucesso! #2 Array
+(
+  [status] => 200
+  [response] => Array
+    (
+      [accounts_info] => 
+      [acquirer_reconciliation] => Array
+        (
+        )
+
+      [additional_info] => Array
+        (
+          [ip_address] => 177.185.21.46
+          [items] => Array
+            (
+              [0] => Array
+                (
+                  [quantity] => 100
+                  [title] => Fatura 10045 - 100 Ticket Donater
+                  [unit_price] => 1
+                )
+
+            )
+
+          [tracking_id] => platform:v1-whitelabel,so:ALL,type:N/A,security:none
+        )
+
+      [authorization_code] => 
+      [binary_mode] => 
+      [brand_id] => 
+      [build_version] => 3.95.0-rc-4
+      [call_for_authorize_id] => 
+      [callback_url] => 
+      [captured] => 1
+      [card] => Array
+        (
+        )
+
+      [charges_details] => Array
+        (
+          [0] => Array
+            (
+              [accounts] => Array
+                (
+                  [from] => collector
+                  [to] => mp
+                )
+
+              [amounts] => Array
+                (
+                  [original] => 0.6
+                  [refunded] => 0
+                )
+
+              [client_id] => 0
+              [date_created] => 2025-03-05T18:46:11.000-04:00
+              [id] => 104227699590-001
+              [last_updated] => 2025-03-05T18:46:11.000-04:00
+              [metadata] => Array
+                (
+                  [source] => rule-engine
+                )
+
+              [name] => mercadopago_fee
+              [refund_charges] => Array
+                (
+                )
+
+              [reserve_id] => 
+              [type] => fee
+            )
+
+        )
+
+      [charges_execution_info] => Array
+        (
+          [internal_execution] => Array
+            (
+              [date] => 2025-03-05T18:46:11.472-04:00
+              [execution_id] => 01JNM7ST6ZDTPZ7NC5QRDFHEK1
+            )
+
+        )
+
+      [collector_id] => 2033218263
+      [corporation_id] => 
+      [counter_currency] => 
+      [coupon_amount] => 0
+      [currency_id] => BRL
+      [date_approved] => 
+      [date_created] => 2025-03-05T18:46:11.000-04:00
+      [date_last_updated] => 2025-03-05T18:46:11.000-04:00
+      [date_of_expiration] => 2025-03-06T18:46:11.000-04:00
+      [deduction_schema] => 
+      [description] => Fatura 10045 - 100 Ticket Donater
+      [differential_pricing_id] => 
+      [external_reference] => 10045
+      [fee_details] => Array
+        (
+        )
+
+      [financing_group] => 
+      [id] => 104227699590
+      [installments] => 1
+      [integrator_id] => 
+      [issuer_id] => 12501
+      [live_mode] => 1
+      [marketplace_owner] => 
+      [merchant_account_id] => 
+      [merchant_number] => 
+      [metadata] => Array
+        (
+        )
+
+      [money_release_date] => 
+      [money_release_schema] => 
+      [money_release_status] => released
+      [notification_url] => 
+      [operation_type] => regular_payment
+      [order] => Array
+        (
+          [id] => 29141921713
+          [type] => mercadopago
+        )
+
+      [payer] => Array
+        (
+          [email] => 
+          [entity_type] => 
+          [first_name] => 
+          [id] => 1673526055
+          [identification] => Array
+            (
+              [number] => 
+              [type] => 
+            )
+
+          [last_name] => 
+          [operator_id] => 
+          [phone] => Array
+            (
+              [number] => 
+              [extension] => 
+              [area_code] => 
+            )
+
+          [type] => 
+        )
+
+      [payment_method] => Array
+        (
+          [id] => pix
+          [issuer_id] => 12501
+          [type] => bank_transfer
+        )
+
+      [payment_method_id] => pix
+      [payment_type_id] => bank_transfer
+      [platform_id] => 
+      [point_of_interaction] => Array
+        (
+          [application_data] => Array
+            (
+              [name] => checkout-off
+              [version] => v2
+            )
+
+          [business_info] => Array
+            (
+              [branch] => Merchant Services
+              [sub_unit] => checkout_pro
+              [unit] => online_payments
+            )
+
+          [transaction_data] => Array
+            (
+              [bank_info] => Array
+                (
+                  [collector] => Array
+                    (
+                      [account_holder_name] => Bruno Tavares Feliciano
+                      [account_id] => 
+                      [long_name] => 
+                      [transfer_account_id] => 
+                    )
+
+                  [is_same_bank_account_owner] => 
+                  [origin_bank_id] => 
+                  [origin_wallet_id] => 
+                  [payer] => Array
+                    (
+                      [account_id] => 
+                      [branch] => 
+                      [external_account_id] => 
+                      [id] => 
+                      [identification] => Array
+                        (
+                        )
+
+                      [long_name] => 
+                    )
+
+                )
+
+              [bank_transfer_id] => 
+              [e2e_id] => 
+              [financial_institution] => 
+              [infringement_notification] => Array
+                (
+                  [status] => 
+                  [type] => 
+                )
+
+              [qr_code] => 00020126330014br.gov.bcb.pix0111090366371635204000053039865406100.005802BR5916TB202410220826156009Sao Paulo62250521mpqrinter1042276995906304215A
+              [qr_code_base64] => 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
+              [ticket_url] => https://www.mercadopago.com.br/payments/104227699590/ticket?caller_id=1673526055&hash=eea21998-b7f5-4a29-8ad8-f5453cdff50e
+              [transaction_id] => 
+            )
+
+          [type] => CHECKOUT
+        )
+
+      [pos_id] => 
+      [processing_mode] => aggregator
+      [refunds] => Array
+        (
+        )
+
+      [release_info] => 
+      [shipping_amount] => 0
+      [sponsor_id] => 
+      [statement_descriptor] => 
+      [status] => pending
+      [status_detail] => pending_waiting_transfer
+      [store_id] => 
+      [tags] => 
+      [taxes_amount] => 0
+      [transaction_amount] => 100
+      [transaction_amount_refunded] => 0
+      [transaction_details] => Array
+        (
+          [acquirer_reference] => 
+          [bank_transfer_id] => 
+          [external_resource_url] => 
+          [financial_institution] => 
+          [installment_amount] => 0
+          [net_received_amount] => 0
+          [overpaid_amount] => 0
+          [payable_deferral_period] => 
+          [payment_method_reference_id] => 
+          [total_paid_amount] => 100
+          [transaction_id] => 
+        )
+
+    )
+
+)
+ - Dump: Array
+(
+  [id] => 104227699590
+  [topic] => payment
+)
+
+05/03/2025 21:08: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 103832571365
+  [topic] => payment
+)
+
+05/03/2025 21:29: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 104238561836
+  [topic] => payment
+)
+
+05/03/2025 22:04: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 103837544535
+  [topic] => payment
+)
+
+05/03/2025 22:53: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 103840942431
+  [topic] => payment
+)
+
+05/03/2025 23:40: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 104247628892
+  [topic] => payment
+)
+
+06/03/2025 19:50: Transação recebida e processada com sucesso! #2 Array
+(
+  [status] => 200
+  [response] => Array
+    (
+      [accounts_info] => 
+      [acquirer_reconciliation] => Array
+        (
+        )
+
+      [additional_info] => Array
+        (
+          [ip_address] => 177.185.21.46
+          [items] => Array
+            (
+              [0] => Array
+                (
+                  [quantity] => 100
+                  [title] => Fatura 10045 - 100 Ticket Donater
+                  [unit_price] => 1
+                )
+
+            )
+
+          [tracking_id] => platform:v1-whitelabel,so:ALL,type:N/A,security:none
+        )
+
+      [authorization_code] => 
+      [binary_mode] => 
+      [brand_id] => 
+      [build_version] => 3.95.0-rc-4
+      [call_for_authorize_id] => 
+      [callback_url] => 
+      [captured] => 1
+      [card] => Array
+        (
+        )
+
+      [charges_details] => Array
+        (
+          [0] => Array
+            (
+              [accounts] => Array
+                (
+                  [from] => collector
+                  [to] => mp
+                )
+
+              [amounts] => Array
+                (
+                  [original] => 0.6
+                  [refunded] => 0
+                )
+
+              [client_id] => 0
+              [date_created] => 2025-03-05T18:46:11.000-04:00
+              [id] => 104227699590-001
+              [last_updated] => 2025-03-05T18:46:11.000-04:00
+              [metadata] => Array
+                (
+                  [source] => rule-engine
+                )
+
+              [name] => mercadopago_fee
+              [refund_charges] => Array
+                (
+                )
+
+              [reserve_id] => 
+              [type] => fee
+            )
+
+        )
+
+      [charges_execution_info] => Array
+        (
+          [internal_execution] => Array
+            (
+              [date] => 2025-03-05T18:46:11.472-04:00
+              [execution_id] => 01JNM7ST6ZDTPZ7NC5QRDFHEK1
+            )
+
+        )
+
+      [collector_id] => 2033218263
+      [corporation_id] => 
+      [counter_currency] => 
+      [coupon_amount] => 0
+      [currency_id] => BRL
+      [date_approved] => 
+      [date_created] => 2025-03-05T18:46:11.000-04:00
+      [date_last_updated] => 2025-03-06T18:50:40.000-04:00
+      [date_of_expiration] => 2025-03-06T18:46:11.000-04:00
+      [deduction_schema] => 
+      [description] => Fatura 10045 - 100 Ticket Donater
+      [differential_pricing_id] => 
+      [external_reference] => 10045
+      [fee_details] => Array
+        (
+        )
+
+      [financing_group] => 
+      [id] => 104227699590
+      [installments] => 1
+      [integrator_id] => 
+      [issuer_id] => 12501
+      [live_mode] => 1
+      [marketplace_owner] => 
+      [merchant_account_id] => 
+      [merchant_number] => 
+      [metadata] => Array
+        (
+        )
+
+      [money_release_date] => 
+      [money_release_schema] => 
+      [money_release_status] => released
+      [notification_url] => 
+      [operation_type] => regular_payment
+      [order] => Array
+        (
+          [id] => 29141921713
+          [type] => mercadopago
+        )
+
+      [payer] => Array
+        (
+          [email] => 
+          [entity_type] => 
+          [first_name] => 
+          [id] => 1673526055
+          [identification] => Array
+            (
+              [number] => 
+              [type] => 
+            )
+
+          [last_name] => 
+          [operator_id] => 
+          [phone] => Array
+            (
+              [number] => 
+              [extension] => 
+              [area_code] => 
+            )
+
+          [type] => 
+        )
+
+      [payment_method] => Array
+        (
+          [id] => pix
+          [issuer_id] => 12501
+          [type] => bank_transfer
+        )
+
+      [payment_method_id] => pix
+      [payment_type_id] => bank_transfer
+      [platform_id] => 
+      [point_of_interaction] => Array
+        (
+          [application_data] => Array
+            (
+              [name] => checkout-off
+              [version] => v2
+            )
+
+          [business_info] => Array
+            (
+              [branch] => Merchant Services
+              [sub_unit] => checkout_pro
+              [unit] => online_payments
+            )
+
+          [transaction_data] => Array
+            (
+              [bank_info] => Array
+                (
+                  [collector] => Array
+                    (
+                      [account_holder_name] => Bruno Tavares Feliciano
+                      [account_id] => 
+                      [long_name] => 
+                      [transfer_account_id] => 
+                    )
+
+                  [is_same_bank_account_owner] => 
+                  [origin_bank_id] => 
+                  [origin_wallet_id] => 
+                  [payer] => Array
+                    (
+                      [account_id] => 
+                      [branch] => 
+                      [external_account_id] => 
+                      [id] => 
+                      [identification] => Array
+                        (
+                        )
+
+                      [long_name] => 
+                    )
+
+                )
+
+              [bank_transfer_id] => 
+              [e2e_id] => 
+              [financial_institution] => 
+              [infringement_notification] => Array
+                (
+                  [status] => 
+                  [type] => 
+                )
+
+              [qr_code] => 00020126330014br.gov.bcb.pix0111090366371635204000053039865406100.005802BR5916TB202410220826156009Sao Paulo62250521mpqrinter1042276995906304215A
+              [ticket_url] => https://www.mercadopago.com.br/payments/104227699590/ticket?caller_id=1673526055&hash=eea21998-b7f5-4a29-8ad8-f5453cdff50e
+              [transaction_id] => 
+            )
+
+          [type] => CHECKOUT
+        )
+
+      [pos_id] => 
+      [processing_mode] => aggregator
+      [refunds] => Array
+        (
+        )
+
+      [release_info] => 
+      [shipping_amount] => 0
+      [sponsor_id] => 
+      [statement_descriptor] => 
+      [status] => cancelled
+      [status_detail] => expired
+      [store_id] => 
+      [tags] => 
+      [taxes_amount] => 0
+      [transaction_amount] => 100
+      [transaction_amount_refunded] => 0
+      [transaction_details] => Array
+        (
+          [acquirer_reference] => 
+          [bank_transfer_id] => 
+          [external_resource_url] => 
+          [financial_institution] => 
+          [installment_amount] => 0
+          [net_received_amount] => 0
+          [overpaid_amount] => 0
+          [payable_deferral_period] => 
+          [payment_method_reference_id] => 
+          [total_paid_amount] => 100
+          [transaction_id] => 
+        )
+
+    )
+
+)
+ - Dump: Array
+(
+  [id] => 104227699590
+  [topic] => payment
+)
+
+06/03/2025 19:52: Transação recebida e processada com sucesso! #2 Array
+(
+  [status] => 200
+  [response] => Array
+    (
+      [accounts_info] => 
+      [acquirer_reconciliation] => Array
+        (
+        )
+
+      [additional_info] => Array
+        (
+          [ip_address] => 177.185.21.46
+          [items] => Array
+            (
+              [0] => Array
+                (
+                  [quantity] => 100
+                  [title] => Fatura 10045 - 100 Ticket Donater
+                  [unit_price] => 1
+                )
+
+            )
+
+          [tracking_id] => platform:v1-whitelabel,so:ALL,type:N/A,security:none
+        )
+
+      [authorization_code] => 
+      [binary_mode] => 
+      [brand_id] => 
+      [build_version] => 3.95.0-rc-4
+      [call_for_authorize_id] => 
+      [callback_url] => 
+      [captured] => 1
+      [card] => Array
+        (
+        )
+
+      [charges_details] => Array
+        (
+          [0] => Array
+            (
+              [accounts] => Array
+                (
+                  [from] => collector
+                  [to] => mp
+                )
+
+              [amounts] => Array
+                (
+                  [original] => 0.6
+                  [refunded] => 0
+                )
+
+              [client_id] => 0
+              [date_created] => 2025-03-05T18:46:11.000-04:00
+              [id] => 104227699590-001
+              [last_updated] => 2025-03-05T18:46:11.000-04:00
+              [metadata] => Array
+                (
+                  [source] => rule-engine
+                )
+
+              [name] => mercadopago_fee
+              [refund_charges] => Array
+                (
+                )
+
+              [reserve_id] => 
+              [type] => fee
+            )
+
+        )
+
+      [charges_execution_info] => Array
+        (
+          [internal_execution] => Array
+            (
+              [date] => 2025-03-05T18:46:11.472-04:00
+              [execution_id] => 01JNM7ST6ZDTPZ7NC5QRDFHEK1
+            )
+
+        )
+
+      [collector_id] => 2033218263
+      [corporation_id] => 
+      [counter_currency] => 
+      [coupon_amount] => 0
+      [currency_id] => BRL
+      [date_approved] => 
+      [date_created] => 2025-03-05T18:46:11.000-04:00
+      [date_last_updated] => 2025-03-06T18:51:10.000-04:00
+      [date_of_expiration] => 2025-03-06T18:46:11.000-04:00
+      [deduction_schema] => 
+      [description] => Fatura 10045 - 100 Ticket Donater
+      [differential_pricing_id] => 
+      [external_reference] => 10045
+      [fee_details] => Array
+        (
+        )
+
+      [financing_group] => 
+      [id] => 104227699590
+      [installments] => 1
+      [integrator_id] => 
+      [issuer_id] => 12501
+      [live_mode] => 1
+      [marketplace_owner] => 
+      [merchant_account_id] => 
+      [merchant_number] => 
+      [metadata] => Array
+        (
+        )
+
+      [money_release_date] => 
+      [money_release_schema] => 
+      [money_release_status] => released
+      [notification_url] => 
+      [operation_type] => regular_payment
+      [order] => Array
+        (
+          [id] => 29141921713
+          [type] => mercadopago
+        )
+
+      [payer] => Array
+        (
+          [email] => 
+          [entity_type] => 
+          [first_name] => 
+          [id] => 1673526055
+          [identification] => Array
+            (
+              [number] => 
+              [type] => 
+            )
+
+          [last_name] => 
+          [operator_id] => 
+          [phone] => Array
+            (
+              [number] => 
+              [extension] => 
+              [area_code] => 
+            )
+
+          [type] => 
+        )
+
+      [payment_method] => Array
+        (
+          [id] => pix
+          [issuer_id] => 12501
+          [type] => bank_transfer
+        )
+
+      [payment_method_id] => pix
+      [payment_type_id] => bank_transfer
+      [platform_id] => 
+      [point_of_interaction] => Array
+        (
+          [application_data] => Array
+            (
+              [name] => checkout-off
+              [version] => v2
+            )
+
+          [business_info] => Array
+            (
+              [branch] => Merchant Services
+              [sub_unit] => checkout_pro
+              [unit] => online_payments
+            )
+
+          [transaction_data] => Array
+            (
+              [bank_info] => Array
+                (
+                  [collector] => Array
+                    (
+                      [account_holder_name] => Bruno Tavares Feliciano
+                      [account_id] => 
+                      [long_name] => 
+                      [transfer_account_id] => 
+                    )
+
+                  [is_same_bank_account_owner] => 
+                  [origin_bank_id] => 
+                  [origin_wallet_id] => 
+                  [payer] => Array
+                    (
+                      [account_id] => 
+                      [branch] => 
+                      [external_account_id] => 
+                      [id] => 
+                      [identification] => Array
+                        (
+                        )
+
+                      [long_name] => 
+                    )
+
+                )
+
+              [bank_transfer_id] => 
+              [e2e_id] => 
+              [financial_institution] => 
+              [infringement_notification] => Array
+                (
+                  [status] => 
+                  [type] => 
+                )
+
+              [qr_code] => 00020126330014br.gov.bcb.pix0111090366371635204000053039865406100.005802BR5916TB202410220826156009Sao Paulo62250521mpqrinter1042276995906304215A
+              [ticket_url] => https://www.mercadopago.com.br/payments/104227699590/ticket?caller_id=1673526055&hash=eea21998-b7f5-4a29-8ad8-f5453cdff50e
+              [transaction_id] => 
+            )
+
+          [type] => CHECKOUT
+        )
+
+      [pos_id] => 
+      [processing_mode] => aggregator
+      [refunds] => Array
+        (
+        )
+
+      [release_info] => 
+      [shipping_amount] => 0
+      [sponsor_id] => 
+      [statement_descriptor] => 
+      [status] => cancelled
+      [status_detail] => expired
+      [store_id] => 
+      [tags] => 
+      [taxes_amount] => 0
+      [transaction_amount] => 100
+      [transaction_amount_refunded] => 0
+      [transaction_details] => Array
+        (
+          [acquirer_reference] => 
+          [bank_transfer_id] => 
+          [external_resource_url] => 
+          [financial_institution] => 
+          [installment_amount] => 0
+          [net_received_amount] => 0
+          [overpaid_amount] => 0
+          [payable_deferral_period] => 
+          [payment_method_reference_id] => 
+          [total_paid_amount] => 100
+          [transaction_id] => 
+        )
+
+    )
+
+)
+ - Dump: Array
+(
+  [id] => 104227699590
+  [topic] => payment
+)
+
+07/03/2025 20:57: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 104063349429
+  [topic] => payment
+)
+
+08/03/2025 21:51: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 104576315428
+  [topic] => payment
+)
+
+09/03/2025 12:31: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 104207615807
+  [topic] => payment
+)
+

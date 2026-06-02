@@ -1,0 +1,722 @@
+15/07/2020 19:26: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [mc_gross] => 12.50
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => ATYCTH2SSVAME
+  [address_street] => Calle de Balaguer
+  [payment_date] => 15:26:23 Jul 15, 2020 PDT
+  [payment_status] => Pending
+  [charset] => windows-1252
+  [address_zip] => 28033
+  [first_name] => Jose
+  [address_country_code] => ES
+  [address_name] => Jose Bautista de ascensao
+  [notify_version] => 3.9
+  [custom] => 24
+  [payer_status] => unverified
+  [business] => lauraortegamorais28@gmail.com
+  [address_country] => Spain
+  [address_city] => Madrid
+  [quantity] => 50
+  [verify_sign] => A6Jk0trfyU7GJG4A9oN2gph.85e5A.VhHw-QSYsNjiaUXx0nWx-tTg4t
+  [payer_email] => el.jose.gitano@gmail.com
+  [txn_id] => 06L43567J2355445H
+  [payment_type] => instant
+  [last_name] => Bautista de ascensao
+  [address_state] => Comunidad de Madrid
+  [receiver_email] => lauraortegamorais28@gmail.com
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => V3Z2ATWJ2D3VE
+  [pending_reason] => multi_currency
+  [txn_type] => web_accept
+  [item_name] => Factura 24 - 50 Ticket Donate
+  [discount] => 0.00
+  [mc_currency] => EUR
+  [item_number] => 
+  [residence_country] => ES
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 835571e0b6411
+)
+
+15/07/2020 21:05: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => YLHFLEEZMQU46
+  [address_street] => Rua Abel Scuissiato 2829 bl 08 apto 401
+Atuba
+  [payment_date] => 17:05:40 Jul 15, 2020 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 83408-280
+  [first_name] => Marcos
+  [mc_fee] => 2.04
+  [address_country_code] => BR
+  [address_name] => Marcos Zelma
+  [notify_version] => 3.9
+  [custom] => 29
+  [payer_status] => unverified
+  [business] => lauraortegamorais28@gmail.com
+  [address_country] => Brazil
+  [address_city] => Colombo
+  [quantity] => 30
+  [verify_sign] => Aah1MXivZDm8yX4.vkwM6MDkVgjbAdJvCt.NzDHL7kOG0b3mhoF8K0yB
+  [payer_email] => marcoszelma@gmail.com
+  [txn_id] => 5NT38303A87496708
+  [payment_type] => instant
+  [last_name] => Zelma
+  [address_state] => PR
+  [receiver_email] => lauraortegamorais28@gmail.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => V3Z2ATWJ2D3VE
+  [txn_type] => web_accept
+  [item_name] => Fatura 29 - 30 Ticket Donate
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 638767a6740bf
+)
+
+15/07/2020 22:30: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [mc_gross] => 3.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => ZL869DX3SMGGQ
+  [address_street] => Padre Hurtado. Pasaje San Marcos 1921#
+  [payment_date] => 18:30:03 Jul 15, 2020 PDT
+  [payment_status] => Pending
+  [charset] => windows-1252
+  [address_zip] => 7591538
+  [first_name] => Cristian
+  [address_country_code] => CL
+  [address_name] => Cristian Riquelme Ruiz
+  [notify_version] => 3.9
+  [custom] => 35
+  [payer_status] => unverified
+  [business] => lauraortegamorais28@gmail.com
+  [address_country] => Chile
+  [address_city] => Santiago
+  [quantity] => 10
+  [verify_sign] => AZrfAz4CFDW8K.tjEgJCIPIzfBAXA4LPRZI4Ty0IWjFf0zMmUrvFFXZx
+  [payer_email] => riquelmeruiz131@gmail.com
+  [txn_id] => 99G963085F497105J
+  [payment_type] => instant
+  [last_name] => Riquelme Ruiz
+  [address_state] => REGI�N METROPOLITANA
+  [receiver_email] => lauraortegamorais28@gmail.com
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => V3Z2ATWJ2D3VE
+  [pending_reason] => multi_currency
+  [txn_type] => web_accept
+  [item_name] => Factura 35 - 10 Ticket Donate
+  [discount] => 0.00
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => CL
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 3.00
+  [ipn_track_id] => d8708786c3220
+)
+
+15/07/2020 23:01: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 3.00
+  [settle_amount] => 12.82
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => ZL869DX3SMGGQ
+  [tax] => 0.00
+  [address_street] => Padre Hurtado. Pasaje San Marcos 1921#
+  [payment_date] => 18:30:03 Jul 15, 2020 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 7591538
+  [first_name] => Cristian
+  [mc_fee] => 0.49
+  [address_country_code] => CL
+  [exchange_rate] => 5.10658
+  [address_name] => Cristian Riquelme Ruiz
+  [notify_version] => 3.9
+  [settle_currency] => BRL
+  [custom] => 35
+  [payer_status] => unverified
+  [business] => lauraortegamorais28@gmail.com
+  [address_country] => Chile
+  [address_city] => Santiago
+  [quantity] => 10
+  [verify_sign] => ARlwEVJooK2YbP.VvDyf4U8o1adYAnVklwF.pmZGP0uNLV-F52PSFLte
+  [payer_email] => riquelmeruiz131@gmail.com
+  [txn_id] => 99G963085F497105J
+  [payment_type] => instant
+  [last_name] => Riquelme Ruiz
+  [address_state] => REGI�N METROPOLITANA
+  [receiver_email] => lauraortegamorais28@gmail.com
+  [payment_fee] => 0.49
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => V3Z2ATWJ2D3VE
+  [txn_type] => web_accept
+  [item_name] => Factura 35 - 10 Ticket Donate
+  [discount] => 0.00
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => CL
+  [shipping_method] => Default
+  [handling_amount] => 0.00
+  [transaction_subject] => 
+  [payment_gross] => 3.00
+  [shipping] => 0.00
+  [ipn_track_id] => 8eaeb946cd85e
+)
+
+15/07/2020 23:01: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [mc_gross] => 3.00
+  [settle_amount] => 12.82
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => ZL869DX3SMGGQ
+  [tax] => 0.00
+  [address_street] => Padre Hurtado. Pasaje San Marcos 1921#
+  [payment_date] => 19:01:48 Jul 15, 2020 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 7591538
+  [first_name] => Cristian
+  [mc_fee] => 0.49
+  [address_country_code] => CL
+  [exchange_rate] => 5.10658
+  [address_name] => Cristian Riquelme Ruiz
+  [notify_version] => 3.9
+  [settle_currency] => BRL
+  [custom] => 35
+  [payer_status] => unverified
+  [address_country] => Chile
+  [address_city] => Santiago
+  [quantity] => 10
+  [verify_sign] => A91QPTjf-hxpg3zyMsYSoLMTxG-NAQOJ95kbWYwy-jbQ9vtirWoL3Cxe
+  [payer_email] => riquelmeruiz131@gmail.com
+  [txn_id] => 99G963085F497105J
+  [payment_type] => instant
+  [last_name] => Riquelme Ruiz
+  [address_state] => REGI�N METROPOLITANA
+  [receiver_email] => lauraortegamorais28@gmail.com
+  [payment_fee] => 0.49
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => V3Z2ATWJ2D3VE
+  [txn_type] => web_accept
+  [item_name] => Factura 35 - 10 Ticket Donate
+  [discount] => 0.00
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => CL
+  [shipping_method] => Default
+  [handling_amount] => 0.00
+  [transaction_subject] => 
+  [payment_gross] => 3.00
+  [shipping] => 0.00
+  [ipn_track_id] => 8eaeb946cd85e
+)
+
+15/07/2020 23:45: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [mc_gross] => 12.50
+  [settle_amount] => 66.01
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => ATYCTH2SSVAME
+  [tax] => 0.00
+  [address_street] => Calle de Balaguer
+  [payment_date] => 15:26:23 Jul 15, 2020 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 28033
+  [first_name] => Jose
+  [mc_fee] => 1.15
+  [address_country_code] => ES
+  [exchange_rate] => 5.81615
+  [address_name] => Jose Bautista de ascensao
+  [notify_version] => 3.9
+  [settle_currency] => BRL
+  [custom] => 24
+  [payer_status] => unverified
+  [business] => lauraortegamorais28@gmail.com
+  [address_country] => Spain
+  [address_city] => Madrid
+  [quantity] => 50
+  [verify_sign] => ABvoLIEaiuc9Ih997KfvAQIrn7g2A.n1PP4RJEa7ASPrCrKeR1bsi3vy
+  [payer_email] => el.jose.gitano@gmail.com
+  [txn_id] => 06L43567J2355445H
+  [payment_type] => instant
+  [last_name] => Bautista de ascensao
+  [address_state] => Comunidad de Madrid
+  [receiver_email] => lauraortegamorais28@gmail.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => V3Z2ATWJ2D3VE
+  [txn_type] => web_accept
+  [item_name] => Factura 24 - 50 Ticket Donate
+  [discount] => 0.00
+  [mc_currency] => EUR
+  [item_number] => 
+  [residence_country] => ES
+  [shipping_method] => Default
+  [handling_amount] => 0.00
+  [transaction_subject] => 
+  [payment_gross] => 
+  [shipping] => 0.00
+  [ipn_track_id] => 477c59823afff
+)
+
+15/07/2020 23:45: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [mc_gross] => 12.50
+  [settle_amount] => 66.01
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => ATYCTH2SSVAME
+  [tax] => 0.00
+  [address_street] => Calle de Balaguer
+  [payment_date] => 19:45:28 Jul 15, 2020 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 28033
+  [first_name] => Jose
+  [mc_fee] => 1.15
+  [address_country_code] => ES
+  [exchange_rate] => 5.81615
+  [address_name] => Jose Bautista de ascensao
+  [notify_version] => 3.9
+  [settle_currency] => BRL
+  [custom] => 24
+  [payer_status] => unverified
+  [address_country] => Spain
+  [address_city] => Madrid
+  [quantity] => 50
+  [verify_sign] => ARVs45C0ELJhThLhj6tic50-MXFHAD6YQ4T7NFyZ4xI4czdRbP-ZLC2E
+  [payer_email] => el.jose.gitano@gmail.com
+  [txn_id] => 06L43567J2355445H
+  [payment_type] => instant
+  [last_name] => Bautista de ascensao
+  [address_state] => Comunidad de Madrid
+  [receiver_email] => lauraortegamorais28@gmail.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => V3Z2ATWJ2D3VE
+  [txn_type] => web_accept
+  [item_name] => Factura 24 - 50 Ticket Donate
+  [discount] => 0.00
+  [mc_currency] => EUR
+  [item_number] => 
+  [residence_country] => ES
+  [shipping_method] => Default
+  [handling_amount] => 0.00
+  [transaction_subject] => 
+  [payment_gross] => 
+  [shipping] => 0.00
+  [ipn_track_id] => 477c59823afff
+)
+
+15/07/2020 23:58: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 200.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => DDKLL9RQLPZQ8
+  [address_street] => av. principal #2 chorrillos vi�a del mar
+valparaiso
+  [payment_date] => 19:58:25 Jul 15, 2020 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 2340000
+  [first_name] => luis
+  [mc_fee] => 13.40
+  [address_country_code] => CL
+  [address_name] => luis rubio elgueta
+  [notify_version] => 3.9
+  [custom] => 37
+  [payer_status] => verified
+  [business] => lauraortegamorais28@gmail.com
+  [address_country] => Chile
+  [address_city] => VI�A DEL MAR
+  [quantity] => 200
+  [verify_sign] => AZT-phd0icl2yMYa3ioacbY53Ji8Ad9FFR7toB2efWRml7MIKY9Sb6mL
+  [payer_email] => branrubio@hotmail.com
+  [txn_id] => 4K301922KF825813P
+  [payment_type] => instant
+  [last_name] => rubio elgueta
+  [address_state] => V REGI�N DE VALPARA�SO
+  [receiver_email] => lauraortegamorais28@gmail.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => V3Z2ATWJ2D3VE
+  [txn_type] => web_accept
+  [item_name] => Factura 37 - 200 Ticket Donate
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => CL
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => cda165dc13856
+)
+
+16/07/2020 15:24: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 150.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => A7TJKBK5UFWTQ
+  [address_street] => Via Baccio da Montelupo 32/L
+  [payment_date] => 11:24:02 Jul 16, 2020 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 50142
+  [first_name] => Ruan
+  [mc_fee] => 10.20
+  [address_country_code] => IT
+  [address_name] => Ruan Da Silva Teixeira
+  [notify_version] => 3.9
+  [custom] => 49
+  [payer_status] => verified
+  [business] => lauraortegamorais28@gmail.com
+  [address_country] => Italy
+  [address_city] => Firenze
+  [quantity] => 150
+  [verify_sign] => A2SJiO1tF8H1K2sYY-8mmljzxTUnA.OZWrMCg8mHRYDmgsJzpoqbwuwa
+  [payer_email] => Ruandasilva1992@gmail.com
+  [txn_id] => 2PD03496MR3843603
+  [payment_type] => instant
+  [last_name] => Da Silva Teixeira
+  [address_state] => 
+  [receiver_email] => lauraortegamorais28@gmail.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => V3Z2ATWJ2D3VE
+  [txn_type] => web_accept
+  [item_name] => Fatura 49 - 150 Ticket Donate
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => IT
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => b3979cba5dfd2
+)
+
+17/07/2020 10:08: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => A7TJKBK5UFWTQ
+  [address_street] => Via Baccio da Montelupo 32/L
+  [payment_date] => 06:08:27 Jul 17, 2020 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 50142
+  [first_name] => Ruan
+  [mc_fee] => 1.88
+  [address_country_code] => IT
+  [address_name] => Ruan Da Silva Teixeira
+  [notify_version] => 3.9
+  [custom] => 64
+  [payer_status] => verified
+  [business] => lauraortegamorais28@gmail.com
+  [address_country] => Italy
+  [address_city] => Firenze
+  [quantity] => 20
+  [verify_sign] => A4cbfDEIx6Th7qE1XEr-DpUXb.sHA0YAw.MTwgkqyC2APj3qWHlg7azv
+  [payer_email] => Ruandasilva1992@gmail.com
+  [txn_id] => 95682418V60839340
+  [payment_type] => instant
+  [last_name] => Da Silva Teixeira
+  [address_state] => 
+  [receiver_email] => lauraortegamorais28@gmail.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => V3Z2ATWJ2D3VE
+  [txn_type] => web_accept
+  [item_name] => Fatura 64 - 20 Ticket Donate
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => IT
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 9e202b1226387
+)
+
+17/07/2020 16:47: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => KEBXLUVERAN9A
+  [address_street] => Av Jose de Alencar 1407 
+Vila Cidade Industrial
+  [payment_date] => 12:47:18 Jul 17, 2020 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 10810-205
+  [first_name] => Rafael
+  [mc_fee] => 3.00
+  [address_country_code] => BR
+  [address_name] => Rafael Lamante
+  [notify_version] => 3.9
+  [custom] => 77
+  [payer_status] => verified
+  [business] => lauraortegamorais28@gmail.com
+  [address_country] => Brazil
+  [address_city] => Araraquara
+  [quantity] => 50
+  [verify_sign] => AZrTSyAhUX7tYPexJknlWLF3Yzd3ASAj9Z88QC7tef-Q.TLl0IDWKvDU
+  [payer_email] => rafael.lamante@gmail.com
+  [txn_id] => 8PY50183H8881970U
+  [payment_type] => instant
+  [last_name] => Lamante
+  [address_state] => SP
+  [receiver_email] => lauraortegamorais28@gmail.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => V3Z2ATWJ2D3VE
+  [txn_type] => web_accept
+  [item_name] => Fatura 77 - 50 Ticket Donate
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => de269709682be
+)
+
+17/07/2020 21:40: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [mc_gross] => 17.50
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => SNDYNTM9QG7CW
+  [address_street] => sector islas 37 piso 4 puerta b
+piso 4 puerta b
+  [payment_date] => 17:40:14 Jul 17, 2020 PDT
+  [payment_status] => Pending
+  [charset] => windows-1252
+  [address_zip] => 28760
+  [first_name] => pablo sebastian
+  [address_country_code] => ES
+  [address_name] => skorpanich
+  [notify_version] => 3.9
+  [custom] => 80
+  [payer_status] => verified
+  [business] => lauraortegamorais28@gmail.com
+  [address_country] => Spain
+  [address_city] => tres cantos
+  [quantity] => 70
+  [verify_sign] => Aeig8mLFvAv-KQBO1xyH0JKQfogLA9HJoCHdoowGQitiA4X8D0Thq.NX
+  [payer_email] => pablo.skorpanich@gmail.com
+  [txn_id] => 09N24669C47248127
+  [payment_type] => instant
+  [last_name] => Skorpanich
+  [address_state] => 
+  [receiver_email] => lauraortegamorais28@gmail.com
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => V3Z2ATWJ2D3VE
+  [pending_reason] => multi_currency
+  [txn_type] => web_accept
+  [item_name] => Invoice 80 - 70 Ticket Donate
+  [discount] => 0.00
+  [mc_currency] => EUR
+  [item_number] => 
+  [residence_country] => ES
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => de67ee5a8e7db
+)
+
+17/07/2020 21:44: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 120.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => DDKLL9RQLPZQ8
+  [address_street] => av. principal #2 chorrillos vi�a del mar
+valparaiso
+  [payment_date] => 17:44:20 Jul 17, 2020 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 2340000
+  [first_name] => luis
+  [mc_fee] => 8.28
+  [address_country_code] => CL
+  [address_name] => luis rubio elgueta
+  [notify_version] => 3.9
+  [custom] => 81
+  [payer_status] => verified
+  [business] => lauraortegamorais28@gmail.com
+  [address_country] => Chile
+  [address_city] => VI�A DEL MAR
+  [quantity] => 120
+  [verify_sign] => AeZrFWQF36YmdFtxcNrfZeGLpIVaACMD-hXLagA3730tG54YgFWtaY1b
+  [payer_email] => branrubio@hotmail.com
+  [txn_id] => 43A76169PX741871C
+  [payment_type] => instant
+  [last_name] => rubio elgueta
+  [address_state] => V REGI�N DE VALPARA�SO
+  [receiver_email] => lauraortegamorais28@gmail.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => V3Z2ATWJ2D3VE
+  [txn_type] => web_accept
+  [item_name] => Factura 81 - 120 Ticket Donate
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => CL
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 88f4dee0748b6
+)
+
+18/07/2020 19:08: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 200.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => DDKLL9RQLPZQ8
+  [address_street] => av. principal #2 chorrillos vi�a del mar
+valparaiso
+  [payment_date] => 15:08:25 Jul 18, 2020 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 2340000
+  [first_name] => luis
+  [mc_fee] => 13.40
+  [address_country_code] => CL
+  [address_name] => luis rubio elgueta
+  [notify_version] => 3.9
+  [custom] => 92
+  [payer_status] => verified
+  [business] => lauraortegamorais28@gmail.com
+  [address_country] => Chile
+  [address_city] => VI�A DEL MAR
+  [quantity] => 200
+  [verify_sign] => Akxx73PuxLcSnpK6wD.ubGGHPfdPAKvNYjwfG2G8iZB35LM6n2.C01yc
+  [payer_email] => branrubio@hotmail.com
+  [txn_id] => 0DG13262BC5358116
+  [payment_type] => instant
+  [last_name] => rubio elgueta
+  [address_state] => V REGI�N DE VALPARA�SO
+  [receiver_email] => lauraortegamorais28@gmail.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => V3Z2ATWJ2D3VE
+  [txn_type] => web_accept
+  [item_name] => Factura 92 - 200 Ticket Donate
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => CL
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 8fab5b2218137
+)
+
+22/07/2020 14:07: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [mc_gross] => -47.00
+  [protection_eligibility] => Eligible
+  [payer_id] => KEBXLUVERAN9A
+  [address_street] => Av Jose de Alencar 1407 
+Vila Cidade Industrial
+  [payment_date] => 10:07:42 Jul 22, 2020 PDT
+  [payment_status] => Reversed
+  [charset] => windows-1252
+  [address_zip] => 10810-205
+  [first_name] => Rafael
+  [mc_fee] => -3.00
+  [address_country_code] => BR
+  [address_name] => Rafael Lamante
+  [notify_version] => 3.9
+  [reason_code] => buyer_complaint
+  [custom] => 77
+  [business] => lauraortegamorais28@gmail.com
+  [address_country] => Brazil
+  [address_city] => Araraquara
+  [verify_sign] => AObouAdEagYYCWMxvi5O8KBW2S8-AVN7NOYTUq-unGYOlQH3knZuwqpO
+  [payer_email] => rafael.lamante@gmail.com
+  [parent_txn_id] => 8PY50183H8881970U
+  [txn_id] => 44G15249A4480470E
+  [payment_type] => instant
+  [last_name] => Lamante
+  [address_state] => SP
+  [receiver_email] => lauraortegamorais28@gmail.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [receiver_id] => V3Z2ATWJ2D3VE
+  [insurance_amount] => 0.00
+  [item_name] => Fatura 77 - 50 Ticket Donate
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [handling_amount] => 0.00
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [shipping] => 0.00
+  [ipn_track_id] => 3ef22e46f002b
+)
+
+22/07/2020 14:08: RAW POSTs incompletos! #1 - Dump: Array
+(
+  [txn_type] => new_case
+  [payment_date] => 12:47:18 Jul 17, 2020 PDT
+  [case_id] => PP-D-77388881
+  [case_type] => dispute
+  [business] => lauraortegamorais28@gmail.com
+  [verify_sign] => Azfsh6T1iOTTQhLTjy0k8cR2d2bjARpHdkcCiRPgcCYCgU-4RZ9q-pox
+  [payer_email] => rafael.lamante@gmail.com
+  [txn_id] => 8PY50183H8881970U
+  [case_creation_date] => 10:07:23 Jul 22, 2020 PDT
+  [receiver_email] => lauraortegamorais28@gmail.com
+  [payer_id] => KEBXLUVERAN9A
+  [receiver_id] => V3Z2ATWJ2D3VE
+  [reason_code] => not_as_described
+  [custom] => 77
+  [charset] => windows-1252
+  [notify_version] => 3.9
+  [ipn_track_id] => 104b37f100a0a
+)
+

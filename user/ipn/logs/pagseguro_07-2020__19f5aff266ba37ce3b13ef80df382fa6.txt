@@ -1,0 +1,220 @@
+31/07/2020 02:27: Protocolo inexistente! SimpleXMLElement Object
+(
+  [date] => 2020-07-17T14:22:09.000-03:00
+  [code] => 786C08CE-D1DD-42E5-A9B4-F8E1FF74A23C
+  [reference] => 73
+  [type] => 1
+  [status] => 4
+  [lastEventDate] => 2020-07-31T02:27:44.000-03:00
+  [paymentMethod] => SimpleXMLElement Object
+    (
+      [type] => 1
+      [code] => 101
+    )
+
+  [grossAmount] => 50.00
+  [discountAmount] => 0.00
+  [feeAmount] => 1.50
+  [netAmount] => 48.50
+  [extraAmount] => 0.00
+  [escrowEndDate] => 2020-07-31T01:00:00.000-03:00
+  [installmentCount] => 1
+  [itemCount] => 1
+  [items] => SimpleXMLElement Object
+    (
+      [item] => SimpleXMLElement Object
+        (
+          [id] => 1
+          [description] => Fatura 73 - 50 Ticket Donate
+          [quantity] => 50
+          [amount] => 1.00
+        )
+
+    )
+
+  [sender] => SimpleXMLElement Object
+    (
+      [name] => Rafael L Oliveira
+      [email] => rafalamante@gmail.com
+      [phone] => SimpleXMLElement Object
+        (
+          [areaCode] => 16
+          [number] => 997003652
+        )
+
+    )
+
+  [shipping] => SimpleXMLElement Object
+    (
+      [address] => SimpleXMLElement Object
+        (
+          [street] => AVENIDA JOSE DE ALENCAR
+          [number] => 1407
+          [complement] => SimpleXMLElement Object
+            (
+            )
+
+          [district] => Vila Cidade Industrial Vila Xavier
+          [city] => ARARAQUARA
+          [state] => SP
+          [country] => BRA
+          [postalCode] => 14810205
+        )
+
+      [type] => 3
+      [cost] => 0.00
+    )
+
+)
+ - Dump: Array
+(
+  [notificationCode] => 2779E1-F11DD11DD166-9004216FA1F0-19CC07
+  [notificationType] => transaction
+)
+
+31/07/2020 02:45: Protocolo inexistente! SimpleXMLElement Object
+(
+  [date] => 2020-07-17T12:29:22.000-03:00
+  [code] => D0B165D8-0B02-4434-8DB8-866B5AA39E30
+  [reference] => 69
+  [type] => 1
+  [status] => 4
+  [lastEventDate] => 2020-07-31T02:45:08.000-03:00
+  [paymentMethod] => SimpleXMLElement Object
+    (
+      [type] => 1
+      [code] => 101
+    )
+
+  [grossAmount] => 20.00
+  [discountAmount] => 0.00
+  [feeAmount] => 0.60
+  [netAmount] => 19.40
+  [extraAmount] => 0.00
+  [escrowEndDate] => 2020-07-31T01:00:00.000-03:00
+  [installmentCount] => 1
+  [itemCount] => 1
+  [items] => SimpleXMLElement Object
+    (
+      [item] => SimpleXMLElement Object
+        (
+          [id] => 1
+          [description] => Fatura 69 - 20 Ticket Donate
+          [quantity] => 20
+          [amount] => 1.00
+        )
+
+    )
+
+  [sender] => SimpleXMLElement Object
+    (
+      [name] => beatriz apolinario moreira
+      [email] => thiaguinho.19.08@gmail.com
+      [phone] => SimpleXMLElement Object
+        (
+          [areaCode] => 61
+          [number] => 34348048
+        )
+
+    )
+
+  [shipping] => SimpleXMLElement Object
+    (
+      [address] => SimpleXMLElement Object
+        (
+          [street] => QUADRA QUADRA 206 CONJUNTO 9
+          [number] => 04
+          [complement] => SimpleXMLElement Object
+            (
+            )
+
+          [district] => Recanto das Emas
+          [city] => BRASILIA
+          [state] => DF
+          [country] => BRA
+          [postalCode] => 72610609
+        )
+
+      [type] => 3
+      [cost] => 0.00
+    )
+
+)
+ - Dump: Array
+(
+  [notificationCode] => 141DEA-2CFEF6FEF6B5-355438CF8E9C-839A95
+  [notificationType] => transaction
+)
+
+31/07/2020 02:57: Protocolo inexistente! SimpleXMLElement Object
+(
+  [date] => 2020-07-16T11:31:25.000-03:00
+  [code] => C7B40289-4CB2-420F-9AEB-B3B3DAD09B25
+  [reference] => 43
+  [type] => 1
+  [status] => 4
+  [lastEventDate] => 2020-07-31T02:57:47.000-03:00
+  [paymentMethod] => SimpleXMLElement Object
+    (
+      [type] => 2
+      [code] => 202
+    )
+
+  [paymentLink] => https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=3a2b3e233398fc16b7d2c50c8b465e5336e751bf90c43b1b2665bbe7917604802647a51d147e26ad
+  [grossAmount] => 50.00
+  [discountAmount] => 0.00
+  [feeAmount] => 1.50
+  [netAmount] => 48.50
+  [extraAmount] => 0.00
+  [escrowEndDate] => 2020-07-31T01:00:00.000-03:00
+  [installmentCount] => 1
+  [itemCount] => 1
+  [items] => SimpleXMLElement Object
+    (
+      [item] => SimpleXMLElement Object
+        (
+          [id] => 1
+          [description] => Fatura 43 - 50 Ticket Donate
+          [quantity] => 50
+          [amount] => 1.00
+        )
+
+    )
+
+  [sender] => SimpleXMLElement Object
+    (
+      [name] => Murilo de Souza correia
+      [email] => caleefsouza@gmail.com
+      [phone] => SimpleXMLElement Object
+        (
+          [areaCode] => 67
+          [number] => 998089667
+        )
+
+    )
+
+  [shipping] => SimpleXMLElement Object
+    (
+      [address] => SimpleXMLElement Object
+        (
+          [street] => Belo h
+          [number] => 231
+          [complement] => Bairro
+          [district] => Bairro
+          [city] => ELDORADO
+          [state] => MS
+          [country] => BRA
+          [postalCode] => 79970000
+        )
+
+      [type] => 3
+      [cost] => 0.00
+    )
+
+)
+ - Dump: Array
+(
+  [notificationCode] => AA11A5-904C2F4C2F9E-1114594FAF63-506296
+  [notificationType] => transaction
+)
+

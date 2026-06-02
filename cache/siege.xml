@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siege>
+<configs>
+<atualstudio>Cache script by Atualstudio.com</atualstudio>
+<updated>1758823242</updated>
+</configs>
+<line>
+<castle>Aden</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>28 September, 2025 00:00</nextwar>
+<tax>0</tax>
+<attacks>1</attacks>
+<attacksname>NotlidE</attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>Dion</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>27 September, 2025 20:00</nextwar>
+<tax>0</tax>
+<attacks>1</attacks>
+<attacksname>PkDonators</attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>Giran</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>27 September, 2025 22:00</nextwar>
+<tax>0</tax>
+<attacks>2</attacks>
+<attacksname>JTI, TROPADOSANOES</attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>Gludio</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>27 September, 2025 20:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>Goddard</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>27 September, 2025 20:00</nextwar>
+<tax>0</tax>
+<attacks>1</attacks>
+<attacksname>LosMasBuscados</attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>Innadril</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>28 September, 2025 00:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>Oren</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>28 September, 2025 00:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>Rune</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>27 September, 2025 20:00</nextwar>
+<tax>0</tax>
+<attacks>1</attacks>
+<attacksname>ExodoS</attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>Schuttgart</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>27 September, 2025 20:00</nextwar>
+<tax>0</tax>
+<attacks>1</attacks>
+<attacksname>Rap</attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+</siege>

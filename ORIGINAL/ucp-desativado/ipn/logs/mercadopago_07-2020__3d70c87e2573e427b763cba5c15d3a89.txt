@@ -1,0 +1,1526 @@
+08/07/2020 15:31: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 7416528318
+  [topic] => payment
+)
+
+15/07/2020 18:16: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1597948443
+  [topic] => merchant_order
+)
+
+15/07/2020 18:16: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1597948443
+  [topic] => merchant_order
+)
+
+15/07/2020 18:16: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [id] => 7607413433
+  [topic] => payment
+)
+
+15/07/2020 19:18: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1598160671
+  [topic] => merchant_order
+)
+
+15/07/2020 19:18: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1598160671
+  [topic] => merchant_order
+)
+
+15/07/2020 19:18: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [id] => 7608718045
+  [topic] => payment
+)
+
+15/07/2020 20:48: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1598433807
+  [topic] => merchant_order
+)
+
+15/07/2020 20:48: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1598433807
+  [topic] => merchant_order
+)
+
+15/07/2020 20:48: Transação recebida e processada com sucesso! #2 Array
+(
+  [status] => 200
+  [response] => Array
+    (
+      [collection] => Array
+        (
+          [id] => 7610088495
+          [site_id] => MLB
+          [date_created] => 2020-07-15T19:48:41.000-04:00
+          [date_approved] => 
+          [money_release_date] => 
+          [last_modified] => 2020-07-15T19:48:41.000-04:00
+          [payer] => Array
+            (
+              [id] => 592289308
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+          [order_id] => 1598433807
+          [external_reference] => 28
+          [merchant_order_id] => 1598433807
+          [reason] => Fatura 28 - 100 Ticket Donate
+          [currency_id] => BRL
+          [transaction_amount] => 100
+          [net_received_amount] => 0
+          [total_paid_amount] => 100
+          [shipping_cost] => 0
+          [coupon_amount] => 0
+          [coupon_fee] => 0
+          [finance_fee] => 0
+          [discount_fee] => 0
+          [coupon_id] => 
+          [status] => in_process
+          [status_detail] => pending_review_manual
+          [installments] => 1
+          [issuer_id] => 24
+          [installment_amount] => 100
+          [deferred_period] => 
+          [payment_type] => credit_card
+          [payment_method_id] => master
+          [marketplace] => NONE
+          [operation_type] => regular_payment
+          [transaction_order_id] => 
+          [statement_descriptor] => MERCPAGO*CAILUCIOS
+          [cardholder] => Array
+            (
+              [name] => jackson s ribeiro
+              [identification] => Array
+                (
+                  [type] => CPF
+                  [number] => 02997745209
+                )
+
+            )
+
+          [authorization_code] => 206724
+          [marketplace_fee] => 0
+          [last_four_digits] => 3473
+          [deduction_schema] => 
+          [refunds] => Array
+            (
+            )
+
+          [amount_refunded] => 0
+          [last_modified_by_admin] => 
+          [api_version] => 2
+          [concept_id] => 
+          [concept_amount] => 0
+          [collector] => Array
+            (
+              [id] => 43498307
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+        )
+
+    )
+
+)
+ - Dump: Array
+(
+  [id] => 7610088495
+  [topic] => payment
+)
+
+15/07/2020 21:11: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1598493055
+  [topic] => merchant_order
+)
+
+15/07/2020 21:11: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1598493055
+  [topic] => merchant_order
+)
+
+15/07/2020 21:11: Transação recebida e processada com sucesso! #2 Array
+(
+  [status] => 200
+  [response] => Array
+    (
+      [collection] => Array
+        (
+          [id] => 7610707868
+          [site_id] => MLB
+          [date_created] => 2020-07-15T20:11:14.000-04:00
+          [date_approved] => 
+          [money_release_date] => 
+          [last_modified] => 2020-07-15T20:11:16.000-04:00
+          [payer] => Array
+            (
+              [id] => 213115758
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+          [order_id] => 1598493055
+          [external_reference] => 31
+          [merchant_order_id] => 1598493055
+          [reason] => Fatura 31 - 60 Ticket Donate
+          [currency_id] => BRL
+          [transaction_amount] => 60
+          [net_received_amount] => 0
+          [total_paid_amount] => 63.62
+          [shipping_cost] => 0
+          [coupon_amount] => 0
+          [coupon_fee] => 0
+          [finance_fee] => 0
+          [discount_fee] => 0
+          [coupon_id] => 
+          [status] => rejected
+          [status_detail] => cc_rejected_insufficient_amount
+          [installments] => 3
+          [issuer_id] => 24
+          [installment_amount] => 21.21
+          [deferred_period] => 
+          [payment_type] => credit_card
+          [payment_method_id] => master
+          [marketplace] => NONE
+          [operation_type] => regular_payment
+          [transaction_order_id] => 
+          [statement_descriptor] => EC*CAILUCIOS
+          [cardholder] => Array
+            (
+              [name] => IRENISA B DE A ARAUJO
+              [identification] => Array
+                (
+                  [type] => CPF
+                  [number] => 30039738434
+                )
+
+            )
+
+          [authorization_code] => N/A
+          [marketplace_fee] => 0
+          [last_four_digits] => 6872
+          [deduction_schema] => 
+          [refunds] => Array
+            (
+            )
+
+          [amount_refunded] => 0
+          [last_modified_by_admin] => 
+          [api_version] => 2
+          [concept_id] => 
+          [concept_amount] => 0
+          [collector] => Array
+            (
+              [id] => 43498307
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+        )
+
+    )
+
+)
+ - Dump: Array
+(
+  [id] => 7610707868
+  [topic] => payment
+)
+
+15/07/2020 21:12: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1598493814
+  [topic] => merchant_order
+)
+
+15/07/2020 21:12: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1598493814
+  [topic] => merchant_order
+)
+
+15/07/2020 21:12: Transação recebida e processada com sucesso! #2 Array
+(
+  [status] => 200
+  [response] => Array
+    (
+      [collection] => Array
+        (
+          [id] => 7610168821
+          [site_id] => MLB
+          [date_created] => 2020-07-15T20:12:07.000-04:00
+          [date_approved] => 
+          [money_release_date] => 
+          [last_modified] => 2020-07-15T20:12:07.000-04:00
+          [payer] => Array
+            (
+              [id] => 213115758
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+          [order_id] => 1598493814
+          [external_reference] => 32
+          [merchant_order_id] => 1598493814
+          [reason] => Fatura 32 - 50 Ticket Donate
+          [currency_id] => BRL
+          [transaction_amount] => 50
+          [net_received_amount] => 0
+          [total_paid_amount] => 53.02
+          [shipping_cost] => 0
+          [coupon_amount] => 0
+          [coupon_fee] => 0
+          [finance_fee] => 0
+          [discount_fee] => 0
+          [coupon_id] => 
+          [status] => rejected
+          [status_detail] => cc_rejected_insufficient_amount
+          [installments] => 3
+          [issuer_id] => 24
+          [installment_amount] => 17.67
+          [deferred_period] => 
+          [payment_type] => credit_card
+          [payment_method_id] => master
+          [marketplace] => NONE
+          [operation_type] => regular_payment
+          [transaction_order_id] => 
+          [statement_descriptor] => MERCPAGO-CAILUCIOS
+          [cardholder] => Array
+            (
+              [name] => IRENISA B DE A ARAUJO
+              [identification] => Array
+                (
+                  [type] => CPF
+                  [number] => 30039738434
+                )
+
+            )
+
+          [authorization_code] => 
+          [marketplace_fee] => 0
+          [last_four_digits] => 6872
+          [deduction_schema] => 
+          [refunds] => Array
+            (
+            )
+
+          [amount_refunded] => 0
+          [last_modified_by_admin] => 
+          [api_version] => 2
+          [concept_id] => 
+          [concept_amount] => 0
+          [collector] => Array
+            (
+              [id] => 43498307
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+        )
+
+    )
+
+)
+ - Dump: Array
+(
+  [id] => 7610168821
+  [topic] => payment
+)
+
+15/07/2020 21:21: Transação recebida e processada com sucesso! #2 Array
+(
+  [status] => 200
+  [response] => Array
+    (
+      [collection] => Array
+        (
+          [id] => 7610088495
+          [site_id] => MLB
+          [date_created] => 2020-07-15T19:48:41.000-04:00
+          [date_approved] => 
+          [money_release_date] => 
+          [last_modified] => 2020-07-15T20:21:36.000-04:00
+          [payer] => Array
+            (
+              [id] => 592289308
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+          [order_id] => 1598433807
+          [external_reference] => 28
+          [merchant_order_id] => 1598433807
+          [reason] => Fatura 28 - 100 Ticket Donate
+          [currency_id] => BRL
+          [transaction_amount] => 100
+          [net_received_amount] => 0
+          [total_paid_amount] => 100
+          [shipping_cost] => 0
+          [coupon_amount] => 0
+          [coupon_fee] => 0
+          [finance_fee] => 0
+          [discount_fee] => 0
+          [coupon_id] => 
+          [status] => rejected
+          [status_detail] => cc_rejected_high_risk
+          [installments] => 1
+          [issuer_id] => 24
+          [installment_amount] => 100
+          [deferred_period] => 
+          [payment_type] => credit_card
+          [payment_method_id] => master
+          [marketplace] => NONE
+          [operation_type] => regular_payment
+          [transaction_order_id] => 
+          [statement_descriptor] => MERCPAGO*CAILUCIOS
+          [cardholder] => Array
+            (
+              [name] => jackson s ribeiro
+              [identification] => Array
+                (
+                  [type] => CPF
+                  [number] => 02997745209
+                )
+
+            )
+
+          [authorization_code] => 206724
+          [marketplace_fee] => 0
+          [last_four_digits] => 3473
+          [deduction_schema] => 
+          [refunds] => Array
+            (
+            )
+
+          [amount_refunded] => 0
+          [last_modified_by_admin] => 
+          [api_version] => 2
+          [concept_id] => 
+          [concept_amount] => 0
+          [collector] => Array
+            (
+              [id] => 43498307
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+        )
+
+    )
+
+)
+ - Dump: Array
+(
+  [id] => 7610088495
+  [topic] => payment
+)
+
+15/07/2020 21:21: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1598433807
+  [topic] => merchant_order
+)
+
+15/07/2020 23:59: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1598807594
+  [topic] => merchant_order
+)
+
+15/07/2020 23:59: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1598807594
+  [topic] => merchant_order
+)
+
+16/07/2020 00:00: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [id] => 7612694158
+  [topic] => payment
+)
+
+16/07/2020 00:00: Transação recebida e processada com sucesso! #2 Array
+(
+  [status] => 200
+  [response] => Array
+    (
+      [collection] => Array
+        (
+          [id] => 7612694158
+          [site_id] => MLB
+          [date_created] => 2020-07-15T22:59:59.000-04:00
+          [date_approved] => 2020-07-15T22:59:59.000-04:00
+          [money_release_date] => 2020-07-15T23:00:09.000-04:00
+          [last_modified] => 2020-07-15T23:00:13.000-04:00
+          [payer] => Array
+            (
+              [id] => 603236374
+              [first_name] => Lucas
+              [last_name] => Barbosa
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 64981492195
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => CPF
+                  [number] => 70551460113
+                )
+
+              [email] => lucasbarbosa.s159l@gmail.com
+              [nickname] => BALU6892504
+            )
+
+          [order_id] => 1598807594
+          [external_reference] => 38
+          [merchant_order_id] => 1598807594
+          [reason] => Fatura 38 - 10 Ticket Donate
+          [currency_id] => BRL
+          [transaction_amount] => 10
+          [net_received_amount] => 9.5
+          [total_paid_amount] => 10
+          [shipping_cost] => 0
+          [coupon_amount] => 0
+          [coupon_fee] => 0
+          [finance_fee] => 0
+          [discount_fee] => 0
+          [coupon_id] => 
+          [status] => approved
+          [status_detail] => accredited
+          [issuer_id] => 
+          [installment_amount] => 0
+          [deferred_period] => 
+          [payment_type] => account_money
+          [payment_method_id] => account_money
+          [marketplace] => NONE
+          [operation_type] => regular_payment
+          [transaction_order_id] => 
+          [statement_descriptor] => 
+          [cardholder] => 
+          [authorization_code] => 
+          [marketplace_fee] => 0
+          [deduction_schema] => 
+          [refunds] => Array
+            (
+            )
+
+          [amount_refunded] => 0
+          [last_modified_by_admin] => 
+          [api_version] => 2
+          [concept_id] => 
+          [concept_amount] => 0
+          [collector] => Array
+            (
+              [id] => 43498307
+              [first_name] => Caio
+              [last_name] => Lucios
+              [phone] => Array
+                (
+                  [area_code] => 67
+                  [number] => 96479285
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => caio_lucios@hotmail.com
+              [nickname] => CAI_LUCIOS
+            )
+
+        )
+
+    )
+
+)
+ - Dump: Array
+(
+  [id] => 7612694158
+  [topic] => payment
+)
+
+16/07/2020 00:00: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1598807594
+  [topic] => merchant_order
+)
+
+16/07/2020 12:24: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1599611044
+  [topic] => merchant_order
+)
+
+16/07/2020 12:24: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1599611044
+  [topic] => merchant_order
+)
+
+16/07/2020 12:24: Transação recebida e processada com sucesso! #2 Array
+(
+  [status] => 200
+  [response] => Array
+    (
+      [collection] => Array
+        (
+          [id] => 7616897571
+          [site_id] => MLB
+          [date_created] => 2020-07-16T11:24:11.000-04:00
+          [date_approved] => 
+          [money_release_date] => 
+          [last_modified] => 2020-07-16T11:24:11.000-04:00
+          [payer] => Array
+            (
+              [id] => 592289308
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+          [order_id] => 1599611044
+          [external_reference] => 45
+          [merchant_order_id] => 1599611044
+          [reason] => Fatura 45 - 50 Ticket Donate
+          [currency_id] => BRL
+          [transaction_amount] => 50
+          [net_received_amount] => 0
+          [total_paid_amount] => 50
+          [shipping_cost] => 0
+          [coupon_amount] => 0
+          [coupon_fee] => 0
+          [finance_fee] => 0
+          [discount_fee] => 0
+          [coupon_id] => 
+          [status] => in_process
+          [status_detail] => pending_review_manual
+          [installments] => 1
+          [issuer_id] => 24
+          [installment_amount] => 50
+          [deferred_period] => 
+          [payment_type] => credit_card
+          [payment_method_id] => master
+          [marketplace] => NONE
+          [operation_type] => regular_payment
+          [transaction_order_id] => 
+          [statement_descriptor] => MERCPAGO*CAILUCIOS
+          [cardholder] => Array
+            (
+              [name] => JACKSON S RIBEIRO
+              [identification] => Array
+                (
+                  [type] => CPF
+                  [number] => 02997745209
+                )
+
+            )
+
+          [authorization_code] => 154771
+          [marketplace_fee] => 0
+          [last_four_digits] => 3473
+          [deduction_schema] => 
+          [refunds] => Array
+            (
+            )
+
+          [amount_refunded] => 0
+          [last_modified_by_admin] => 
+          [api_version] => 2
+          [concept_id] => 
+          [concept_amount] => 0
+          [collector] => Array
+            (
+              [id] => 43498307
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+        )
+
+    )
+
+)
+ - Dump: Array
+(
+  [id] => 7616897571
+  [topic] => payment
+)
+
+16/07/2020 12:56: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1599611044
+  [topic] => merchant_order
+)
+
+16/07/2020 12:56: Transação recebida e processada com sucesso! #2 Array
+(
+  [status] => 200
+  [response] => Array
+    (
+      [collection] => Array
+        (
+          [id] => 7616897571
+          [site_id] => MLB
+          [date_created] => 2020-07-16T11:24:11.000-04:00
+          [date_approved] => 
+          [money_release_date] => 
+          [last_modified] => 2020-07-16T11:56:27.000-04:00
+          [payer] => Array
+            (
+              [id] => 592289308
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+          [order_id] => 1599611044
+          [external_reference] => 45
+          [merchant_order_id] => 1599611044
+          [reason] => Fatura 45 - 50 Ticket Donate
+          [currency_id] => BRL
+          [transaction_amount] => 50
+          [net_received_amount] => 0
+          [total_paid_amount] => 50
+          [shipping_cost] => 0
+          [coupon_amount] => 0
+          [coupon_fee] => 0
+          [finance_fee] => 0
+          [discount_fee] => 0
+          [coupon_id] => 
+          [status] => rejected
+          [status_detail] => cc_rejected_high_risk
+          [installments] => 1
+          [issuer_id] => 24
+          [installment_amount] => 50
+          [deferred_period] => 
+          [payment_type] => credit_card
+          [payment_method_id] => master
+          [marketplace] => NONE
+          [operation_type] => regular_payment
+          [transaction_order_id] => 
+          [statement_descriptor] => MERCPAGO*CAILUCIOS
+          [cardholder] => Array
+            (
+              [name] => JACKSON S RIBEIRO
+              [identification] => Array
+                (
+                  [type] => CPF
+                  [number] => 02997745209
+                )
+
+            )
+
+          [authorization_code] => 154771
+          [marketplace_fee] => 0
+          [last_four_digits] => 3473
+          [deduction_schema] => 
+          [refunds] => Array
+            (
+            )
+
+          [amount_refunded] => 0
+          [last_modified_by_admin] => 
+          [api_version] => 2
+          [concept_id] => 
+          [concept_amount] => 0
+          [collector] => Array
+            (
+              [id] => 43498307
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+        )
+
+    )
+
+)
+ - Dump: Array
+(
+  [id] => 7616897571
+  [topic] => payment
+)
+
+16/07/2020 15:15: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 7416528318
+  [topic] => payment
+)
+
+16/07/2020 15:18: Merchant Order ID vazio! - Dump: Array
+(
+  [id] => 7619975376
+  [topic] => payment
+)
+
+16/07/2020 16:32: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1600379078
+  [topic] => merchant_order
+)
+
+16/07/2020 16:32: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1600379078
+  [topic] => merchant_order
+)
+
+16/07/2020 16:32: Protocolo inexistente! REF: mercadopago-event-43498307-AXNZBm8M2I_e-1Tlv5UN - Dump: Array
+(
+  [id] => 7621082880
+  [topic] => payment
+)
+
+16/07/2020 20:11: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1601054007
+  [topic] => merchant_order
+)
+
+16/07/2020 20:11: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1601054007
+  [topic] => merchant_order
+)
+
+16/07/2020 20:11: Transação recebida e processada com sucesso! #2 Array
+(
+  [status] => 200
+  [response] => Array
+    (
+      [collection] => Array
+        (
+          [id] => 7625267689
+          [site_id] => MLB
+          [date_created] => 2020-07-16T19:11:08.000-04:00
+          [date_approved] => 
+          [money_release_date] => 
+          [last_modified] => 2020-07-16T19:11:08.000-04:00
+          [payer] => Array
+            (
+              [id] => 180865487
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+          [order_id] => 1601054007
+          [external_reference] => 54
+          [merchant_order_id] => 1601054007
+          [reason] => Fatura 54 - 40 Ticket Donate
+          [currency_id] => BRL
+          [transaction_amount] => 40
+          [net_received_amount] => 0
+          [total_paid_amount] => 41.8
+          [shipping_cost] => 0
+          [coupon_amount] => 0
+          [coupon_fee] => 0
+          [finance_fee] => 0
+          [discount_fee] => 0
+          [coupon_id] => 
+          [status] => in_process
+          [status_detail] => pending_review_manual
+          [installments] => 2
+          [issuer_id] => 25
+          [installment_amount] => 20.9
+          [deferred_period] => 
+          [payment_type] => credit_card
+          [payment_method_id] => visa
+          [marketplace] => NONE
+          [operation_type] => regular_payment
+          [transaction_order_id] => 
+          [statement_descriptor] => MERCPAGO*CAIOLUCIUS
+          [cardholder] => Array
+            (
+              [name] => Cleide Maria de Moraes Garces
+              [identification] => Array
+                (
+                  [type] => CPF
+                  [number] => 07096771204
+                )
+
+            )
+
+          [authorization_code] => 391216
+          [marketplace_fee] => 0
+          [last_four_digits] => 7109
+          [deduction_schema] => 
+          [refunds] => Array
+            (
+            )
+
+          [amount_refunded] => 0
+          [last_modified_by_admin] => 
+          [api_version] => 2
+          [concept_id] => 
+          [concept_amount] => 0
+          [collector] => Array
+            (
+              [id] => 43498307
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+        )
+
+    )
+
+)
+ - Dump: Array
+(
+  [id] => 7625267689
+  [topic] => payment
+)
+
+16/07/2020 20:13: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1601061115
+  [topic] => merchant_order
+)
+
+16/07/2020 20:13: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1601061115
+  [topic] => merchant_order
+)
+
+16/07/2020 20:13: Transação recebida e processada com sucesso! #2 Array
+(
+  [status] => 200
+  [response] => Array
+    (
+      [collection] => Array
+        (
+          [id] => 7625130887
+          [site_id] => MLB
+          [date_created] => 2020-07-16T19:13:24.000-04:00
+          [date_approved] => 
+          [money_release_date] => 
+          [last_modified] => 2020-07-16T19:13:24.000-04:00
+          [payer] => Array
+            (
+              [id] => 180865487
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+          [order_id] => 1601061115
+          [external_reference] => 55
+          [merchant_order_id] => 1601061115
+          [reason] => Fatura 55 - 40 Ticket Donate
+          [currency_id] => BRL
+          [transaction_amount] => 40
+          [net_received_amount] => 0
+          [total_paid_amount] => 40
+          [shipping_cost] => 0
+          [coupon_amount] => 0
+          [coupon_fee] => 0
+          [finance_fee] => 0
+          [discount_fee] => 0
+          [coupon_id] => 
+          [status] => rejected
+          [status_detail] => cc_rejected_other_reason
+          [installments] => 1
+          [issuer_id] => 25
+          [installment_amount] => 40
+          [deferred_period] => 
+          [payment_type] => credit_card
+          [payment_method_id] => visa
+          [marketplace] => NONE
+          [operation_type] => regular_payment
+          [transaction_order_id] => 
+          [statement_descriptor] => MERCPAGO-CAIOLUCIUS
+          [cardholder] => Array
+            (
+              [name] => Rodrigo de Moraes Garces
+              [identification] => Array
+                (
+                  [type] => CPF
+                  [number] => 04136290233
+                )
+
+            )
+
+          [authorization_code] => 
+          [marketplace_fee] => 0
+          [last_four_digits] => 3100
+          [deduction_schema] => 
+          [refunds] => Array
+            (
+            )
+
+          [amount_refunded] => 0
+          [last_modified_by_admin] => 
+          [api_version] => 2
+          [concept_id] => 
+          [concept_amount] => 0
+          [collector] => Array
+            (
+              [id] => 43498307
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+        )
+
+    )
+
+)
+ - Dump: Array
+(
+  [id] => 7625130887
+  [topic] => payment
+)
+
+16/07/2020 20:46: Transação recebida e processada com sucesso! #2 Array
+(
+  [status] => 200
+  [response] => Array
+    (
+      [collection] => Array
+        (
+          [id] => 7625267689
+          [site_id] => MLB
+          [date_created] => 2020-07-16T19:11:08.000-04:00
+          [date_approved] => 
+          [money_release_date] => 
+          [last_modified] => 2020-07-16T19:46:10.000-04:00
+          [payer] => Array
+            (
+              [id] => 180865487
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+          [order_id] => 1601054007
+          [external_reference] => 54
+          [merchant_order_id] => 1601054007
+          [reason] => Fatura 54 - 40 Ticket Donate
+          [currency_id] => BRL
+          [transaction_amount] => 40
+          [net_received_amount] => 0
+          [total_paid_amount] => 41.8
+          [shipping_cost] => 0
+          [coupon_amount] => 0
+          [coupon_fee] => 0
+          [finance_fee] => 0
+          [discount_fee] => 0
+          [coupon_id] => 
+          [status] => rejected
+          [status_detail] => cc_rejected_high_risk
+          [installments] => 2
+          [issuer_id] => 25
+          [installment_amount] => 20.9
+          [deferred_period] => 
+          [payment_type] => credit_card
+          [payment_method_id] => visa
+          [marketplace] => NONE
+          [operation_type] => regular_payment
+          [transaction_order_id] => 
+          [statement_descriptor] => MERCPAGO*CAIOLUCIUS
+          [cardholder] => Array
+            (
+              [name] => Cleide Maria de Moraes Garces
+              [identification] => Array
+                (
+                  [type] => CPF
+                  [number] => 07096771204
+                )
+
+            )
+
+          [authorization_code] => 391216
+          [marketplace_fee] => 0
+          [last_four_digits] => 7109
+          [deduction_schema] => 
+          [refunds] => Array
+            (
+            )
+
+          [amount_refunded] => 0
+          [last_modified_by_admin] => 
+          [api_version] => 2
+          [concept_id] => 
+          [concept_amount] => 0
+          [collector] => Array
+            (
+              [id] => 43498307
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+        )
+
+    )
+
+)
+ - Dump: Array
+(
+  [id] => 7625267689
+  [topic] => payment
+)
+
+16/07/2020 20:46: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1601054007
+  [topic] => merchant_order
+)
+
+16/07/2020 21:14: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1601220817
+  [topic] => merchant_order
+)
+
+16/07/2020 21:14: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1601220817
+  [topic] => merchant_order
+)
+
+16/07/2020 21:14: Transação recebida e processada com sucesso! #2 Array
+(
+  [status] => 200
+  [response] => Array
+    (
+      [collection] => Array
+        (
+          [id] => 7625934642
+          [site_id] => MLB
+          [date_created] => 2020-07-16T20:14:42.000-04:00
+          [date_approved] => 
+          [money_release_date] => 
+          [last_modified] => 2020-07-16T20:14:42.000-04:00
+          [payer] => Array
+            (
+              [id] => 389614636
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+          [order_id] => 1601220817
+          [external_reference] => 58
+          [merchant_order_id] => 1601220817
+          [reason] => Fatura 58 - 30 Ticket Donate
+          [currency_id] => BRL
+          [transaction_amount] => 30
+          [net_received_amount] => 0
+          [total_paid_amount] => 30
+          [shipping_cost] => 0
+          [coupon_amount] => 0
+          [coupon_fee] => 0
+          [finance_fee] => 0
+          [discount_fee] => 0
+          [coupon_id] => 
+          [status] => pending
+          [status_detail] => pending_waiting_payment
+          [issuer_id] => 
+          [installment_amount] => 0
+          [deferred_period] => 
+          [payment_type] => ticket
+          [payment_method_id] => bolbradesco
+          [marketplace] => NONE
+          [operation_type] => regular_payment
+          [transaction_order_id] => 
+          [statement_descriptor] => 
+          [cardholder] => 
+          [authorization_code] => 
+          [marketplace_fee] => 0
+          [deduction_schema] => 
+          [refunds] => Array
+            (
+            )
+
+          [amount_refunded] => 0
+          [last_modified_by_admin] => 
+          [api_version] => 2
+          [concept_id] => 
+          [concept_amount] => 0
+          [collector] => Array
+            (
+              [id] => 43498307
+              [first_name] => 
+              [last_name] => 
+              [phone] => Array
+                (
+                  [area_code] => 
+                  [number] => 
+                  [extension] => 
+                )
+
+              [identification] => Array
+                (
+                  [type] => 
+                  [number] => 
+                )
+
+              [email] => 
+              [nickname] => 
+            )
+
+        )
+
+    )
+
+)
+ - Dump: Array
+(
+  [id] => 7625934642
+  [topic] => payment
+)
+
+16/07/2020 22:40: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1601404352
+  [topic] => merchant_order
+)
+
+16/07/2020 22:40: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1601404352
+  [topic] => merchant_order
+)
+
+16/07/2020 22:40: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [id] => 7626902053
+  [topic] => payment
+)
+
+17/07/2020 20:07: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1603689286
+  [topic] => merchant_order
+)
+
+17/07/2020 20:07: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1603689286
+  [topic] => merchant_order
+)
+
+17/07/2020 20:07: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [id] => 7641209635
+  [topic] => payment
+)
+
+17/07/2020 20:16: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1603715909
+  [topic] => merchant_order
+)
+
+17/07/2020 20:16: Recebemos uma notificação, mas ela não é relacionada a um pagamento. - Dump: Array
+(
+  [id] => 1603715909
+  [topic] => merchant_order
+)
+
+17/07/2020 20:16: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [id] => 7640759942
+  [topic] => payment
+)
+

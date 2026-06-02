@@ -3,8 +3,8 @@
 ###########################################################
 ##                   Configurações                       ##
 ###########################################################
-$server_name = 'L2 Cyclone'; // Nome do servidor
-$server_chronicle = ' 300x - Servidor Lineage 2 Interlude'; // Crônica do servidor
+$server_name = 'L2 BlackSoul'; // Nome do servidor
+$server_chronicle = ' Servidor Lineage 2 Interlude'; // Crônica do servidor
 $server_url = 'www.l2cyclone.com.br'; // Digite exatamente o URL onde se encontra este site (exemplo: www.l2server.com)
 
 
@@ -15,10 +15,10 @@ $server_url = 'www.l2cyclone.com.br'; // Digite exatamente o URL onde se encontr
 # Qual método de conexão você irá utilizar? (recomendamos MySQLi ou PDO-MySQL)
 $conMethod = 2; // 1 = MySQL, 2 = MySQLi, 3 = PDO-MySQL
 
-$host = '178.132.198.233'; // Endereço do host
-$dbnm = 'l2cyclone'; // Nome do banco
-$user = 'l2cyclone'; // Usuário
-$pass = 'l2cyclone2026'; // Senha
+$host = '127.0.0.1'; // Endereço do host
+$dbnm = 'stone'; // Nome do banco
+$user = 'root'; // Usuário
+$pass = '123456'; // Senha
 
 // $pass = 'tcd$5%)A,@-3'; // Senha
 
@@ -30,14 +30,14 @@ $loginPort = '2106'; // porta do login/auth
 $gamePort = '7777'; // porta do game
 
 // Forçar o site a exibir um certo status (on = Online | off = Offline | auto = Status Real)
-$forceLoginStatus = 'off'; // Auth Status (Padrão: auto)
-$forceGameStatus = 'off'; // Game Status (Padrão: auto)
+$forceLoginStatus = 'auto'; // Auth Status (Padrão: auto)
+$forceGameStatus = 'auto'; // Game Status (Padrão: auto)
 
 
 ###########################################################
 ##              Atualstudio Web Admin 3.0                ##
 ###########################################################
-$admpass = 'l2cyclone'; // Senha do painel admin
+$admpass = '5612144as'; // Senha do painel admin
 
 
 ###########################################################
@@ -80,9 +80,9 @@ $dir_newsimg = 'imgs/news/'; // Diretório das imagens das notícias
 ##                 Contagem regressiva                   ##
 ###########################################################
 $counterActived = 1; // Ativar contagem regressiva na página inicial? (1 = Sim | 0 = Não)
-$cDia = '30'; // Dia
-$cMes = '05'; // Mês
-$cAno = '2026'; // Ano
+$cDia = '27'; // Dia
+$cMes = '12'; // Mês
+$cAno = '2025'; // Ano
 $cHor = '19'; // Hora
 $cMin = '00'; // Minuto
 $cGMT = '-3'; // GMT/UTC

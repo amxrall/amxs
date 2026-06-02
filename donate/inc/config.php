@@ -16,10 +16,10 @@ define('PP_SECRET', 'SEU_SECRET_AQUI');
 define('PP_SANDBOX', true); // Mude para false em produção
 
 // Banco de Dados
-define('DB_HOST', '178.132.198.233');
-define('DB_USER', 'l2cyclone');
-define('DB_PASS', 'l2cyclone2026');
-define('DB_NAME', 'l2cyclone');
+define('DB_HOST', '178.132.198.192');
+define('DB_USER', 'vps');
+define('DB_PASS', '342Bzzcc');
+define('DB_NAME', 'l2-stone');
 
 // Configurações de Transferência para o Jogo
 define('GAME_ITEM_ID', 9511); // ID do item no jogo (Ex: 57 = Adena, 4037 = Coin of Luck)

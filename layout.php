@@ -69,7 +69,7 @@ $rankClan = $sqlClan->fetchAll();
   <?php require('private/seo.php'); ?>
 
   <meta charset="UTF-8">
-  <link rel="icon" href="/favicon.png" type="image/png">
+  <link rel="shortcut icon" href="assets/img/favicon.ico">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title><?php echo $SEO['title']; ?></title>
@@ -89,7 +89,7 @@ $rankClan = $sqlClan->fetchAll();
   <meta name="twitter:title" content="<?php echo $SEO['title']; ?>">
   <meta name="twitter:description" content="<?php echo $SEO['description']; ?>">
   <meta name="twitter:image" content="http://<?php echo $server_url; ?>/imgs/image_src.jpg">
-<script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
+
   <link rel="stylesheet" crossorigin href="assets/style.css">
 
   <style type="text/css">:where(html[dir="ltr"]),
@@ -1004,7 +1004,7 @@ $rankClan = $sqlClan->fetchAll();
                 class="h-32 sm:h-40 md:h-48 mx-auto drop-shadow-[0_0_30px_hsl(45_80%_52%/0.4)]"></div>
             <h1
               class="font-fantasy text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black leading-tight mb-4 gradient-text-gold text-glow-gold reveal active">
-              SEU DESTINO COMEÇA AGORA ENTRE NA ERA DO L2 HONDA</h1>
+              SEU DESTINO COMEÇA AGORA ENTRE NA ERA DO L2 SUNSTROKE</h1>
             <p
               class="text-base sm:text-lg md:text-xl text-foreground/50 mb-10 max-w-xl mx-auto font-light tracking-wide reveal active">
               O CAMPO DE BATALHA DEFINITIVO É AQUI</p>
@@ -1634,23 +1634,13 @@ $rankClan = $sqlClan->fetchAll();
             <div class="p-6 flex flex-col items-center justify-center h-full">
                 <div class="w-full max-w-xs space-y-5">
 <?php
-if (session_status() === PHP_SESSION_NONE) {
-    session_start();
-}
-
 if (empty($_SESSION['lkey'])) {
-    $_SESSION['lkey'] = md5(uniqid(mt_rand(), true));
-}
-
-require_once('private/classes/classAccess.php');
-
-$logged = 0;
-if (!empty($_SESSION['acc']) && !empty($_SESSION['ses'])) {
-    if ($_SESSION['ses'] === md5($_SERVER['HTTP_USER_AGENT'] . $uniqueKey . 'logged')) {
-        $logged = 1;
-    }
+    $_SESSION['lkey'] = md5(time().rand(100,999).$uniqueKey);
 }
 ?>
+
+
+
                     <?php if ($logged != 1) { ?>
 
                         <div class="text-center">
@@ -1669,40 +1659,35 @@ if (!empty($_SESSION['acc']) && !empty($_SESSION['ses'])) {
                         </div>
 
                         <div class="top-login">
-                            <form
-                                id="top-login-form"
-                                action="./?engine=login"
-                                method="POST"
-                                class="space-y-3"
-                            >
-                                <input type="hidden" name="lkey" value="<?php echo $_SESSION['lkey']; ?>">
-                                <input type="hidden" name="captcha" id="ucp_captcha" value="">
-                                <input type="hidden" name="ucp_uniqid" value="<?php echo md5(uniqid()); ?>">
+                           <form 
+    id="top-login-form"
+    action="./?engine=login"
+    method="POST"
+>
+    <?php
+    $_SESSION['lkey'] = md5(time().rand(100,999).$uniqueKey);
+    ?>
 
-                                <input type="text"
-                                       name="ucp_login"
-                                       placeholder="Login"
-                                       autocomplete="off"
-                                       required
-                                       class="w-full px-4 py-3 rounded bg-muted border border-border text-foreground text-sm focus:outline-none focus:border-primary/50 focus:ring-1 focus:ring-primary/30 transition-all">
+    <input type="hidden" name="lkey" value="<?php echo $_SESSION['lkey']; ?>">
+    <input type="hidden" name="captcha" id="ucp_captcha" value="">
+    <input type="hidden" name="ucp_uniqid" value="<?php echo md5(uniqid()); ?>">
 
-                                <input type="password"
-                                       name="ucp_passw"
-                                       placeholder="Senha"
-                                       autocomplete="off"
-                                       required
-                                       class="w-full px-4 py-3 rounded bg-muted border border-border text-foreground text-sm focus:outline-none focus:border-primary/50 focus:ring-1 focus:ring-primary/30 transition-all">
+    <input type="text" name="ucp_login" placeholder="Login" autocomplete="off" required
+           class="w-full px-4 py-3 rounded bg-muted border border-border text-foreground text-sm">
 
-                                <?php if ($captcha_cp_on == 1) { ?>
-                                    <button type="button" class="game-btn w-full text-xs" onclick="window.submitPanelLogin()">
-                                        ENTRAR
-                                    </button>
-                                <?php } else { ?>
-                                    <button type="submit" class="game-btn w-full text-xs">
-                                        ENTRAR
-                                    </button>
-                                <?php } ?>
-                            </form>
+    <input type="password" name="ucp_passw" placeholder="Senha" autocomplete="off" required
+           class="w-full px-4 py-3 rounded bg-muted border border-border text-foreground text-sm">
+
+    <?php if ($captcha_cp_on == 1) { ?>
+        <button type="button" class="game-btn w-full text-xs" onclick="opencaptcha();">
+            ENTRAR
+        </button>
+    <?php } else { ?>
+        <button type="submit" class="game-btn w-full text-xs">
+            ENTRAR
+        </button>
+    <?php } ?>
+</form>
                         </div>
 
                     <?php } else { ?>
@@ -1762,7 +1747,31 @@ if (!empty($_SESSION['acc']) && !empty($_SESSION['ses'])) {
         </div>
     </div>
 </div>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    const openBtn = document.getElementById('openLoginPanel');
+    const closeBtn = document.getElementById('loginPanelClose');
+    const panel = document.getElementById('loginPanel');
+    const overlay = document.getElementById('loginPanelOverlay');
 
+    function openPanel() {
+        panel.classList.remove('translate-x-full');
+        overlay.classList.remove('opacity-0', 'pointer-events-none');
+    }
+
+    function closePanel() {
+        panel.classList.add('translate-x-full');
+        overlay.classList.add('opacity-0', 'pointer-events-none');
+    }
+
+    if (openBtn) openBtn.addEventListener('click', openPanel);
+    if (closeBtn) closeBtn.addEventListener('click', closePanel);
+    if (overlay) overlay.addEventListener('click', closePanel);
+});
+</script>
+<script src="js/jquery-1.12.4.min.js"></script>
+<script src="js/app.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script type="module" crossorigin src="assets/script.js"></script>
 </body>
 

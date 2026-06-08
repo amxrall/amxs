@@ -62,54 +62,85 @@ window.opencaptcha = function () {
 
     let overlay = document.getElementById('login-captcha-overlay');
 
-    if (!overlay) {
-        overlay = document.createElement('div');
-        overlay.id = 'login-captcha-overlay';
-        overlay.innerHTML = `
-            <div class="login-captcha-box">
-                <button class="captcha-close" onclick="closeLoginCaptcha()">×</button>
-
-                <h3>Validação de Segurança</h3>
-
-                <img id="login-captcha-img"
-                     src="captcha/securimage_show.php"
-                     alt="captcha">
-
-                <input type="text"
-                       id="login-captcha-input"
-                       placeholder="Digite o captcha"
-                       maxlength="5">
-
-                <div class="captcha-actions">
-                    <button type="button" onclick="reloadLoginCaptcha()">Recarregar</button>
-                    <button type="button" onclick="submitLoginWithCaptcha()">Confirmar</button>
-                </div>
-            </div>
-        `;
-        document.body.appendChild(overlay);
+    if (overlay) {
+        overlay.remove();
     }
 
+    overlay = document.createElement('div');
+    overlay.id = 'login-captcha-overlay';
+
+    overlay.innerHTML = `
+        <div class="login-captcha-box">
+
+            <button class="captcha-close" onclick="closeLoginCaptcha()">×</button>
+
+            <h3>Validação de Segurança</h3>
+
+            <img id="login-captcha-img"
+                 src="captcha/securimage_show.php?${Date.now()}"
+                 alt="captcha">
+
+            <input type="text"
+                   id="login-captcha-input"
+                   placeholder="Digite o captcha"
+                   maxlength="5">
+
+            <div class="captcha-actions">
+                <button type="button" onclick="reloadLoginCaptcha()">
+                    Recarregar
+                </button>
+
+                <button type="button" onclick="
+var input=document.getElementById('login-captcha-input');
+var captcha=document.getElementById('ucp_captcha');
+var form=document.getElementById('top-login-form');
+
+if(!input || !captcha || !form){
+    alert('Formulário de login não encontrado.');
+} else {
+    captcha.value = input.value.trim();
+    form.submit();
+}
+">
+Confirmar
+</button>
+            </div>
+
+        </div>
+    `;
+
+    document.body.appendChild(overlay);
     overlay.style.display = 'flex';
 };
 
 window.closeLoginCaptcha = function () {
     const overlay = document.getElementById('login-captcha-overlay');
-    if (overlay) overlay.style.display = 'none';
+
+    if (overlay) {
+        overlay.style.display = 'none';
+    }
 };
 
 window.reloadLoginCaptcha = function () {
     const img = document.getElementById('login-captcha-img');
+
     if (img) {
         img.src = 'captcha/securimage_show.php?' + Date.now();
     }
 };
 
 window.submitLoginWithCaptcha = function () {
+
+    alert('entrou na função');
+
     const input = document.getElementById('login-captcha-input');
     const captchaField = document.getElementById('ucp_captcha');
     const form = document.getElementById('top-login-form');
 
-    if (!input || !captchaField || !form) return;
+    if (!input || !captchaField || !form) {
+        alert('Formulário não encontrado');
+        return;
+    }
 
     const value = input.value.trim();
 
@@ -124,25 +155,25 @@ window.submitLoginWithCaptcha = function () {
         type: 'POST',
         url: form.getAttribute('action'),
         data: $(form).serialize(),
+
         success: function (response) {
 
-    console.log(response);
-    alert(response);
+            alert(response);
+            console.log(response);
 
-    if (
-        response === 'OK' ||
-        response.indexOf('"act":"OK"') !== -1 ||
-        response.indexOf("'act':'OK'") !== -1
-    ) {
-        location.reload();
-        return;
-    }
+            if (
+                response === 'OK' ||
+                response.indexOf('"act":"OK"') !== -1 ||
+                response.indexOf("'act':'OK'") !== -1
+            ) {
+                location.reload();
+                return;
+            }
+        },
 
-    reloadLoginCaptcha();
-},
         error: function (xhr) {
             alert('Erro no login: ' + xhr.status);
-            reloadLoginCaptcha();
+            console.log(xhr);
         }
     });
 };
